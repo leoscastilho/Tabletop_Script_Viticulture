@@ -1,7 +1,7 @@
 {
   "SaveName": "Viticulture EE Scripted",
-  "EpochTime": 1619323507,
-  "Date": "4/25/2021 1:05:07 AM",
+  "EpochTime": 1619555692,
+  "Date": "4/27/2021 5:34:52 PM",
   "VersionNumber": "v13.1.1",
   "GameMode": "Viticulture EE",
   "GameType": "",
@@ -820,7 +820,7 @@
         "z": 21.1310139
       },
       "Rotation": {
-        "x": -6.34956052E-07,
+        "x": -6.349564E-07,
         "y": 180.03038,
         "z": 180.000366
       }
@@ -1096,7 +1096,7 @@
       "Name": "Bag",
       "Transform": {
         "posX": -22.0798149,
-        "posY": 0.825826943,
+        "posY": 0.8258255,
         "posZ": -21.66225,
         "rotX": -1.82092E-05,
         "rotY": 269.992249,
@@ -1109,9 +1109,9 @@
       "Description": "Earned by using the \"train workers\" action space\n",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.357915074,
+        "r": 0.357914984,
         "g": 1.0,
-        "b": 0.34509632
+        "b": 0.345096231
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -1287,9 +1287,9 @@
       "Name": "Bag",
       "Transform": {
         "posX": 39.0803871,
-        "posY": 0.8258513,
+        "posY": 0.825851738,
         "posZ": -7.889767,
-        "rotX": -1.5041054E-06,
+        "rotX": -1.505773E-06,
         "rotY": -0.000416107941,
         "rotZ": 1.0071916E-06,
         "scaleX": 0.725000262,
@@ -1302,7 +1302,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.572113931,
-        "b": 0.188233554
+        "b": 0.188233465
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -1669,7 +1669,7 @@
       "Name": "Bag",
       "Transform": {
         "posX": -46.3149452,
-        "posY": 0.83106935,
+        "posY": 0.8310679,
         "posZ": -22.0085449,
         "rotX": -1.8009284E-07,
         "rotY": 6.496684E-06,
@@ -1682,8 +1682,8 @@
       "Description": "Earned by using the \"train workers\" action space\n",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.199998289,
-        "g": 0.164704174,
+        "r": 0.1999982,
+        "g": 0.164704084,
         "b": 0.9686274
       },
       "LayoutGroupSortIndex": 0,
@@ -1860,7 +1860,7 @@
       "Name": "Bag",
       "Transform": {
         "posX": 2.11260915,
-        "posY": 0.8258114,
+        "posY": 0.8257971,
         "posZ": -21.5443363,
         "rotX": 1.51678141E-05,
         "rotY": -0.000340308761,
@@ -1875,7 +1875,7 @@
       "ColorDiffuse": {
         "r": 0.9529411,
         "g": 0.0156862754,
-        "b": 0.334718168
+        "b": 0.334718078
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -2053,9 +2053,9 @@
         "posX": -39.6588974,
         "posY": 0.825851262,
         "posZ": 17.522274,
-        "rotX": 1.49171092E-06,
+        "rotX": 5.89792933E-07,
         "rotY": 90.00588,
-        "rotZ": -2.43244676E-06,
+        "rotZ": -4.54193741E-06,
         "scaleX": 0.725000262,
         "scaleY": 0.725000262,
         "scaleZ": 0.725000262
@@ -2066,7 +2066,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 1.0,
-        "b": 0.345096558
+        "b": 0.345096439
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -2244,7 +2244,7 @@
         "posX": 38.9175148,
         "posY": 1.09768462,
         "posZ": 32.79178,
-        "rotX": 5.756089E-08,
+        "rotX": -2.44376963E-08,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 2.17539454,
@@ -3305,12 +3305,12 @@
       "GUID": "f920a0",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -40.9414825,
-        "posY": 0.957649767,
-        "posZ": -2.92031336,
-        "rotX": -1.66935479E-05,
+        "posX": -40.93029,
+        "posY": 0.9576496,
+        "posZ": -2.914922,
+        "rotX": -1.92232483E-06,
         "rotY": 270.01178,
-        "rotZ": 3.62705777E-07,
+        "rotZ": -5.29192846E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -3355,12 +3355,12 @@
       "GUID": "a89075",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -40.0724945,
-        "posY": 0.9546758,
-        "posZ": -2.87245274,
-        "rotX": -2.314838E-06,
+        "posX": -39.9921074,
+        "posY": 0.954675436,
+        "posZ": -2.97250915,
+        "rotX": 4.727898E-06,
         "rotY": 270.011932,
-        "rotZ": 1.18606158E-06,
+        "rotZ": 1.2383183E-06,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -3405,12 +3405,12 @@
       "GUID": "f97363",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -39.227314,
-        "posY": 0.9515005,
-        "posZ": -2.88183165,
-        "rotX": -6.214965E-08,
+        "posX": -39.1894875,
+        "posY": 0.9515003,
+        "posZ": -2.87324715,
+        "rotX": 3.52527962E-07,
         "rotY": 270.011932,
-        "rotZ": 3.1420222E-09,
+        "rotZ": 6.431732E-08,
         "scaleX": 1.75,
         "scaleY": 1.75,
         "scaleZ": 1.75
@@ -3455,12 +3455,12 @@
       "GUID": "708ae3",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -38.35925,
+        "posX": -38.4192352,
         "posY": 0.9592438,
-        "posZ": -2.82938862,
-        "rotX": -2.790554E-07,
+        "posZ": -2.856213,
+        "rotX": -4.62066879E-07,
         "rotY": 90.01188,
-        "rotZ": 6.307123E-08,
+        "rotZ": -6.387148E-08,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -3505,12 +3505,12 @@
       "GUID": "1bf63d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -37.6116028,
+        "posX": -37.58419,
         "posY": 0.941218853,
-        "posZ": -2.8372457,
-        "rotX": 2.41863546E-07,
+        "posZ": -2.8868053,
+        "rotX": 4.21720728E-07,
         "rotY": 90.01185,
-        "rotZ": 7.260903E-08,
+        "rotZ": 2.90486639E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -3555,12 +3555,12 @@
       "GUID": "bf6b15",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -36.83313,
-        "posY": 0.9458331,
-        "posZ": -2.8070538,
-        "rotX": -1.14508317E-07,
+        "posX": -36.8144073,
+        "posY": 0.945833147,
+        "posZ": -2.82394576,
+        "rotX": -1.928514E-07,
         "rotY": 90.01192,
-        "rotZ": 2.24240864E-07,
+        "rotZ": 2.40621063E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3605,12 +3605,12 @@
       "GUID": "bb655d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -35.913063,
+        "posX": -35.9243851,
         "posY": 0.9508974,
-        "posZ": -2.79630017,
-        "rotX": -1.14675927E-07,
+        "posZ": -2.80275273,
+        "rotX": -2.726487E-07,
         "rotY": 270.008423,
-        "rotZ": -1.648273E-07,
+        "rotZ": -1.40960154E-07,
         "scaleX": 0.875,
         "scaleY": 0.875,
         "scaleZ": 0.875
@@ -3655,12 +3655,12 @@
       "GUID": "9c9c82",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -34.7444153,
-        "posY": 0.9590038,
-        "posZ": -2.8526752,
-        "rotX": -5.48326859E-08,
+        "posX": -34.7148438,
+        "posY": 0.9590039,
+        "posZ": -2.78557,
+        "rotX": 1.77666635E-07,
         "rotY": 270.011963,
-        "rotZ": 2.94318259E-08,
+        "rotZ": 4.475809E-07,
         "scaleX": 0.85,
         "scaleY": 0.85,
         "scaleZ": 0.85
@@ -3705,12 +3705,12 @@
       "GUID": "9fa940",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 36.842,
-        "posY": 0.9245511,
-        "posZ": -7.82932425,
-        "rotX": -4.44050329E-07,
+        "posX": 36.8804665,
+        "posY": 0.9245513,
+        "posZ": -7.79529,
+        "rotX": -3.93284154E-07,
         "rotY": 89.9912643,
-        "rotZ": 1.26707576E-07,
+        "rotZ": 1.28078426E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -3721,7 +3721,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -3755,12 +3755,12 @@
       "GUID": "84f12e",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 35.3568344,
+        "posX": 35.3933144,
         "posY": 0.9424747,
-        "posZ": -7.772771,
-        "rotX": 6.901812E-08,
+        "posZ": -7.75904274,
+        "rotX": 9.642816E-08,
         "rotY": 270.007355,
-        "rotZ": 2.643257E-08,
+        "rotZ": 4.75834042E-07,
         "scaleX": 0.75,
         "scaleY": 0.75,
         "scaleZ": 0.75
@@ -3771,7 +3771,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -3805,12 +3805,12 @@
       "GUID": "ed72ab",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 34.1213951,
-        "posY": 0.952933133,
-        "posZ": -7.771665,
-        "rotX": 1.91896779E-05,
+        "posX": 34.1555443,
+        "posY": 0.9529332,
+        "posZ": -7.755809,
+        "rotX": 8.667356E-06,
         "rotY": 269.991364,
-        "rotZ": 1.14959294E-05,
+        "rotZ": 2.77507047E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3821,7 +3821,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -3855,12 +3855,12 @@
       "GUID": "e1e313",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 34.3706932,
+        "posX": 34.30358,
         "posY": 0.9590043,
-        "posZ": 12.4102354,
-        "rotX": -1.57526941E-07,
+        "posZ": 12.4397879,
+        "rotX": -3.70186228E-07,
         "rotY": 89.9912338,
-        "rotZ": 3.87881016E-07,
+        "rotZ": 5.62177661E-07,
         "scaleX": 0.85,
         "scaleY": 0.85,
         "scaleZ": 0.85
@@ -3871,7 +3871,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -3905,12 +3905,12 @@
       "GUID": "c49d1d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 35.52082,
-        "posY": 0.9508975,
-        "posZ": 12.4131975,
-        "rotX": -3.819172E-07,
+        "posX": 35.5272751,
+        "posY": 0.950897455,
+        "posZ": 12.4018774,
+        "rotX": -2.83950783E-07,
         "rotY": 89.9907,
-        "rotZ": -1.24785089E-07,
+        "rotZ": -1.946978E-07,
         "scaleX": 0.875,
         "scaleY": 0.875,
         "scaleZ": 0.875
@@ -3921,7 +3921,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -3955,12 +3955,12 @@
       "GUID": "b65b3d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 36.4920921,
-        "posY": 0.9458332,
-        "posZ": 12.3801823,
-        "rotX": -3.30049659E-07,
+        "posX": 36.51082,
+        "posY": 0.945832968,
+        "posZ": 12.3632956,
+        "rotX": -1.9736575E-07,
         "rotY": 89.9911652,
-        "rotZ": 2.24060358E-07,
+        "rotZ": 3.03422468E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -3971,7 +3971,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -4005,12 +4005,12 @@
       "GUID": "5682ae",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 37.3357353,
-        "posY": 0.941219449,
-        "posZ": 12.403347,
-        "rotX": -3.75902232E-06,
+        "posX": 37.2861862,
+        "posY": 0.941218853,
+        "posZ": 12.3759308,
+        "rotX": -7.5663047E-07,
         "rotY": 269.9913,
-        "rotZ": 4.509966E-07,
+        "rotZ": 1.61084287E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -4021,7 +4021,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -4055,12 +4055,12 @@
       "GUID": "b86028",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 38.1576157,
+        "posX": 38.0976448,
         "posY": 0.9592438,
-        "posZ": 12.417675,
-        "rotX": 2.08618388E-07,
+        "posZ": 12.3908453,
+        "rotX": 1.44059413E-08,
         "rotY": 89.9911957,
-        "rotZ": -2.18826166E-08,
+        "rotZ": -3.414629E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -4071,7 +4071,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -4105,12 +4105,12 @@
       "GUID": "2c79ac",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 39.0810966,
+        "posX": 39.1189156,
         "posY": 0.9515003,
-        "posZ": 12.4336109,
-        "rotX": 3.15059538E-07,
+        "posZ": 12.4421968,
+        "rotX": 1.55193092E-07,
         "rotY": 269.991119,
-        "rotZ": -4.03734859E-08,
+        "rotZ": -2.04573666E-07,
         "scaleX": 1.75,
         "scaleY": 1.75,
         "scaleZ": 1.75
@@ -4121,7 +4121,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -4155,12 +4155,12 @@
       "GUID": "292edd",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 39.9826927,
-        "posY": 0.954675734,
-        "posZ": 12.3570414,
-        "rotX": -6.34615958E-07,
+        "posX": 40.08278,
+        "posY": 0.9546758,
+        "posZ": 12.4374475,
+        "rotX": -2.56000419E-07,
         "rotY": 90.02054,
-        "rotZ": 1.17381184E-07,
+        "rotZ": 1.41679521E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -4171,7 +4171,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -4205,12 +4205,12 @@
       "GUID": "e61c62",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 40.85913,
-        "posY": 0.9576497,
-        "posZ": 12.4606686,
-        "rotX": 1.560078E-07,
+        "posX": 40.8703232,
+        "posY": 0.9576498,
+        "posZ": 12.4660606,
+        "rotX": 1.60863163E-08,
         "rotY": 270.003235,
-        "rotZ": 1.18579289E-08,
+        "rotZ": 2.26221943E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -4221,7 +4221,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -4255,12 +4255,12 @@
       "GUID": "62624d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -22.1418,
+        "posX": -22.069294,
         "posY": 0.924551249,
-        "posZ": -19.1960354,
-        "rotX": -1.174223E-07,
+        "posZ": -19.2004719,
+        "rotX": -1.2384425E-08,
         "rotY": 179.985809,
-        "rotZ": 1.24983913E-07,
+        "rotZ": 3.15887121E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -4305,12 +4305,12 @@
       "GUID": "cc728c",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -22.1915779,
-        "posY": 0.9424747,
-        "posZ": -17.7984352,
-        "rotX": 1.05955628E-07,
+        "posX": -22.1914711,
+        "posY": 0.9424748,
+        "posZ": -17.798481,
+        "rotX": 4.66441634E-07,
         "rotY": 359.759735,
-        "rotZ": -2.18279865E-07,
+        "rotZ": -1.299016E-07,
         "scaleX": 0.75,
         "scaleY": 0.75,
         "scaleZ": 0.75
@@ -4355,12 +4355,12 @@
       "GUID": "2647fb",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -22.2154942,
-        "posY": 0.952932954,
-        "posZ": -16.591856,
-        "rotX": -2.24009582E-05,
-        "rotY": 359.985779,
-        "rotZ": -4.376156E-05,
+        "posX": -22.2154865,
+        "posY": 0.9529329,
+        "posZ": -16.5918617,
+        "rotX": 2.1250602E-05,
+        "rotY": 359.985718,
+        "rotZ": -2.27409328E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4408,9 +4408,9 @@
         "posX": -26.3330021,
         "posY": 0.957649648,
         "posZ": -23.1847038,
-        "rotX": 1.250648E-07,
+        "rotX": 1.25770271E-07,
         "rotY": 359.987946,
-        "rotZ": -1.35005124E-07,
+        "rotZ": -1.32700322E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -4419,8 +4419,8 @@
       "Description": "Can make value 7 - 9 wines (required for sparkling wines). Requires medium cellar first.",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4455,12 +4455,12 @@
       "GUID": "79a6fc",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -26.3511848,
+        "posX": -26.17072,
         "posY": 0.9546753,
-        "posZ": -22.3278313,
-        "rotX": 2.98038628E-07,
+        "posZ": -22.3474884,
+        "rotX": 3.410396E-07,
         "rotY": 180.002213,
-        "rotZ": 1.03757882E-08,
+        "rotZ": 1.196199E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -4469,8 +4469,8 @@
       "Description": "Can make value 4 - 6 wines (required for blush wines)",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4505,12 +4505,12 @@
       "GUID": "ecd626",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -26.30634,
+        "posX": -26.3063354,
         "posY": 0.9515003,
         "posZ": -21.3789673,
-        "rotX": -3.27224541E-07,
+        "rotX": -2.688458E-07,
         "rotY": 359.993134,
-        "rotZ": 1.638139E-07,
+        "rotZ": 1.24160053E-07,
         "scaleX": 1.75,
         "scaleY": 1.75,
         "scaleZ": 1.75
@@ -4519,8 +4519,8 @@
       "Description": "Gain 1 VP whenever giving a vineyard tour by the action space or a visitor card (max. 1 VP/year)",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4555,12 +4555,12 @@
       "GUID": "3562d1",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -46.3225,
-        "posY": 0.9297744,
-        "posZ": -19.6671352,
-        "rotX": -6.43447038E-07,
+        "posX": -46.24999,
+        "posY": 0.9297747,
+        "posZ": -19.6715755,
+        "rotX": -1.13218141E-06,
         "rotY": 180.000778,
-        "rotZ": 1.53046273E-07,
+        "rotZ": 4.99688554E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -4569,8 +4569,8 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4605,12 +4605,12 @@
       "GUID": "b6fd9e",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -26.3385086,
-        "posY": 0.959243834,
-        "posZ": -20.4559956,
-        "rotX": 5.82737556E-08,
+        "posX": -26.4253159,
+        "posY": 0.9592438,
+        "posZ": -20.4228458,
+        "rotX": 3.57477518E-07,
         "rotY": 180.000763,
-        "rotZ": -2.38502281E-07,
+        "rotZ": -5.99868333E-09,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -4619,8 +4619,8 @@
       "Description": "Gain one extra visitor card (either summer or winter visitor) during fall. Draw them all at the same time",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4656,11 +4656,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -46.24466,
-        "posY": 0.9476978,
+        "posY": 0.947697759,
         "posZ": -18.0964317,
-        "rotX": 7.281163E-08,
-        "rotY": -0.005562817,
-        "rotZ": 3.999E-07,
+        "rotX": -1.8322479E-06,
+        "rotY": -0.00556258531,
+        "rotZ": 6.820113E-07,
         "scaleX": 0.75,
         "scaleY": 0.75,
         "scaleZ": 0.75
@@ -4669,8 +4669,8 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4706,11 +4706,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": -26.30936,
-        "posY": 0.9412188,
+        "posY": 0.941218853,
         "posZ": -19.56677,
-        "rotX": -1.49349489E-07,
-        "rotY": 0.0005839274,
-        "rotZ": -2.80541258E-07,
+        "rotX": 9.24879444E-08,
+        "rotY": 0.0005839224,
+        "rotZ": -2.6840172E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -4719,8 +4719,8 @@
       "Description": "Can place a worker here as an action to Uproot or Harvest One Field once per year. May only be used by the player who owns it",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4755,12 +4755,12 @@
       "GUID": "5c9a0a",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -26.3043365,
-        "posY": 0.945833147,
-        "posZ": -18.82225,
-        "rotX": -7.25200966E-09,
+        "posX": -26.3025055,
+        "posY": 0.9458331,
+        "posZ": -18.8578644,
+        "rotX": -1.64582346E-07,
         "rotY": 180.009644,
-        "rotZ": 1.22813173E-08,
+        "rotZ": 2.50802344E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4769,8 +4769,8 @@
       "Description": "Gain 1 VP when planting a vine (max. 1 VP/year)",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4805,12 +4805,12 @@
       "GUID": "860d0c",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -46.290554,
-        "posY": 0.9581562,
-        "posZ": -16.50343,
-        "rotX": -8.202196E-06,
-        "rotY": 0.0144671611,
-        "rotZ": -3.07657069E-06,
+        "posX": -46.29056,
+        "posY": 0.9581565,
+        "posZ": -16.5034256,
+        "rotX": -6.07501761E-06,
+        "rotY": 0.0144306561,
+        "rotZ": -3.97519671E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -4819,8 +4819,8 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4855,12 +4855,12 @@
       "GUID": "c241d2",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -26.2669544,
+        "posX": -26.271822,
         "posY": 0.950897336,
-        "posZ": -17.8109417,
-        "rotX": -1.38463221E-07,
+        "posZ": -17.8287182,
+        "rotX": -4.55741826E-08,
         "rotY": 179.999786,
-        "rotZ": -5.949535E-08,
+        "rotZ": -1.51396364E-07,
         "scaleX": 0.875,
         "scaleY": 0.875,
         "scaleZ": 0.875
@@ -4869,8 +4869,8 @@
       "Description": "Can grow vines with the \"irrigation\" requirement",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4905,12 +4905,12 @@
       "GUID": "42e7c3",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -26.2679329,
+        "posX": -26.3054848,
         "posY": 0.959004,
-        "posZ": -16.6268044,
-        "rotX": 1.05116253E-08,
+        "posZ": -16.53014,
+        "rotX": -4.0807808E-07,
         "rotY": 179.99968,
-        "rotZ": 1.30920039E-08,
+        "rotZ": -1.05405626E-07,
         "scaleX": 0.85,
         "scaleY": 0.85,
         "scaleZ": 0.85
@@ -4919,8 +4919,8 @@
       "Description": "Can grow vines with the \"trellis\" requirement",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -4955,12 +4955,12 @@
       "GUID": "954bc5",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -34.6031342,
-        "posY": 0.9529333,
-        "posZ": 17.4570484,
-        "rotX": 1.16061965E-05,
+        "posX": -34.61898,
+        "posY": 0.952932954,
+        "posZ": 17.491188,
+        "rotX": -4.78318134E-06,
         "rotY": 89.9809,
-        "rotZ": -1.96814344E-05,
+        "rotZ": -4.90723978E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5005,12 +5005,12 @@
       "GUID": "8d8472",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -35.9970055,
+        "posX": -35.9585342,
         "posY": 0.9245513,
-        "posZ": 17.4705849,
-        "rotX": -2.14390553E-07,
+        "posZ": 17.5046234,
+        "rotX": -2.74217655E-07,
         "rotY": 90.00515,
-        "rotZ": 1.72176087E-08,
+        "rotZ": 1.56012263E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -5055,12 +5055,12 @@
       "GUID": "4325c0",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -37.48958,
-        "posY": 0.942474842,
-        "posZ": 17.4079781,
-        "rotX": -5.239659E-07,
+        "posX": -37.50331,
+        "posY": 0.9424747,
+        "posZ": 17.44445,
+        "rotX": -2.892362E-07,
         "rotY": 90.00209,
-        "rotZ": 7.64537162E-08,
+        "rotZ": 1.63630816E-07,
         "scaleX": 0.75,
         "scaleY": 0.75,
         "scaleZ": 0.75
@@ -5105,12 +5105,12 @@
       "GUID": "a885e1",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 2.17497563,
+        "posX": 2.17498326,
         "posY": 0.9424746,
-        "posZ": -17.9275417,
-        "rotX": 4.48138621E-07,
+        "posZ": -17.9275455,
+        "rotX": 5.55231736E-07,
         "rotY": 359.982117,
-        "rotZ": 1.15869049E-07,
+        "rotZ": 1.1487937E-07,
         "scaleX": 0.75,
         "scaleY": 0.75,
         "scaleZ": 0.75
@@ -5121,7 +5121,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5155,12 +5155,12 @@
       "GUID": "4c6f33",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 2.10655785,
-        "posY": 0.9529332,
-        "posZ": -16.74848,
-        "rotX": -3.30684065E-06,
-        "rotY": 0.0147623019,
-        "rotZ": -7.38695735E-06,
+        "posX": 2.10655141,
+        "posY": 0.952933,
+        "posZ": -16.748476,
+        "rotX": -2.26777374E-05,
+        "rotY": 0.0147350831,
+        "rotZ": -2.38372158E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5171,7 +5171,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5205,12 +5205,12 @@
       "GUID": "7a6e85",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 2.15790725,
-        "posY": 0.924551368,
-        "posZ": -19.3616524,
-        "rotX": -4.2162938E-07,
+        "posX": 2.230417,
+        "posY": 0.924551249,
+        "posZ": -19.3660927,
+        "rotX": 8.605015E-07,
         "rotY": 180.000351,
-        "rotZ": 1.28556081E-07,
+        "rotZ": -4.23487472E-06,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -5221,7 +5221,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5255,12 +5255,12 @@
       "GUID": "3e4909",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 22.246954,
+        "posX": 22.2094078,
         "posY": 0.9590038,
-        "posZ": -17.0354156,
-        "rotX": 6.50327436E-08,
-        "rotY": 179.999725,
-        "rotZ": 1.050244E-07,
+        "posZ": -16.93876,
+        "rotX": -1.85996578E-06,
+        "rotY": 179.999435,
+        "rotZ": 3.638449E-07,
         "scaleX": 0.85,
         "scaleY": 0.85,
         "scaleZ": 0.85
@@ -5271,7 +5271,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5305,12 +5305,12 @@
       "GUID": "fae2e1",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 22.2434025,
+        "posX": 22.2385311,
         "posY": 0.950897455,
-        "posZ": -18.2393646,
-        "rotX": -6.483314E-07,
+        "posZ": -18.2571411,
+        "rotX": 1.96426427E-07,
         "rotY": 179.9914,
-        "rotZ": -6.01271353E-08,
+        "rotZ": 3.859313E-08,
         "scaleX": 0.875,
         "scaleY": 0.875,
         "scaleZ": 0.875
@@ -5321,7 +5321,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5355,12 +5355,12 @@
       "GUID": "dd56f5",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 22.2593021,
-        "posY": 0.945833147,
-        "posZ": -19.1759281,
-        "rotX": -4.52903066E-07,
+        "posX": 22.2611332,
+        "posY": 0.9458331,
+        "posZ": -19.2115421,
+        "rotX": 6.98424344E-07,
         "rotY": 180.009613,
-        "rotZ": -1.799684E-07,
+        "rotZ": 6.77259848E-09,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5371,7 +5371,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5405,12 +5405,12 @@
       "GUID": "593075",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 22.304,
-        "posY": 0.9412188,
+        "posX": 22.3039932,
+        "posY": 0.941218853,
         "posZ": -20.0285149,
-        "rotX": 8.692033E-08,
+        "rotX": -6.996365E-08,
         "rotY": 359.9904,
-        "rotZ": -5.48695631E-08,
+        "rotZ": -1.17884667E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -5421,7 +5421,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5455,12 +5455,12 @@
       "GUID": "111c2a",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 22.3283138,
+        "posX": 22.2415066,
         "posY": 0.9592436,
-        "posZ": -20.90628,
-        "rotX": -1.47770765E-08,
+        "posZ": -20.8731346,
+        "rotX": -1.49017552E-07,
         "rotY": 180.000763,
-        "rotZ": -5.668485E-08,
+        "rotZ": -8.236322E-08,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -5471,7 +5471,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5506,11 +5506,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 22.3625813,
-        "posY": 0.9515003,
+        "posY": 0.951500356,
         "posZ": -21.7301,
-        "rotX": -6.472715E-07,
-        "rotY": -0.00311365281,
-        "rotZ": 2.2952679E-07,
+        "rotX": 1.46409619E-07,
+        "rotY": -0.003113657,
+        "rotZ": 3.09109339E-07,
         "scaleX": 1.75,
         "scaleY": 1.75,
         "scaleZ": 1.75
@@ -5521,7 +5521,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5555,12 +5555,12 @@
       "GUID": "906782",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 22.3316326,
-        "posY": 0.954675436,
-        "posZ": -22.6363564,
-        "rotX": -1.96988879E-07,
+        "posX": 22.51209,
+        "posY": 0.9546753,
+        "posZ": -22.6560211,
+        "rotX": -1.44845217E-07,
         "rotY": 180.00769,
-        "rotZ": -2.09071118E-07,
+        "rotZ": -3.53390277E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -5571,7 +5571,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5606,11 +5606,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 22.4038811,
-        "posY": 0.9576498,
+        "posY": 0.9576497,
         "posZ": -23.5178585,
-        "rotX": -5.583523E-07,
-        "rotY": -0.003043648,
-        "rotZ": 6.812213E-08,
+        "rotX": -8.948039E-08,
+        "rotY": -0.0030436113,
+        "rotZ": 2.619221E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -5621,7 +5621,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -5655,12 +5655,12 @@
       "GUID": "601a4a",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 26.63693,
-        "posY": 0.942474663,
-        "posZ": -17.8720818,
-        "rotX": -2.3379593E-07,
+        "posX": 26.6369343,
+        "posY": 0.9424753,
+        "posZ": -17.8720856,
+        "rotX": -6.820711E-07,
         "rotY": 359.987152,
-        "rotZ": 2.85709717E-07,
+        "rotZ": 3.58251633E-08,
         "scaleX": 0.75,
         "scaleY": 0.75,
         "scaleZ": 0.75
@@ -5705,12 +5705,12 @@
       "GUID": "88cf7d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 26.6427,
-        "posY": 0.952933133,
-        "posZ": -16.6036758,
-        "rotX": -2.09226455E-05,
-        "rotY": 0.0145559907,
-        "rotZ": -3.48400172E-05,
+        "posX": 26.6420689,
+        "posY": 0.9529328,
+        "posZ": -16.6030445,
+        "rotX": -3.89305842E-06,
+        "rotY": 359.7443,
+        "rotZ": 7.60393141E-06,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5755,12 +5755,12 @@
       "GUID": "183f84",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 26.6288452,
-        "posY": 0.9245513,
-        "posZ": -19.2532825,
-        "rotX": -4.4807025E-06,
+        "posX": 26.701355,
+        "posY": 0.9245512,
+        "posZ": -19.25773,
+        "rotX": -3.26957263E-07,
         "rotY": 180.012863,
-        "rotZ": 1.88102263E-06,
+        "rotZ": 3.772351E-10,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -5805,12 +5805,12 @@
       "GUID": "308091",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 46.64486,
+        "posX": 46.6073074,
         "posY": 0.9602212,
-        "posZ": -16.86111,
-        "rotX": -8.26601365E-07,
+        "posZ": -16.7644463,
+        "rotX": -1.76352773E-06,
         "rotY": 179.99968,
-        "rotZ": 5.75213733E-07,
+        "rotZ": 1.00817942E-06,
         "scaleX": 0.85,
         "scaleY": 0.85,
         "scaleZ": 0.85
@@ -5855,12 +5855,12 @@
       "GUID": "a1e19b",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 46.6680679,
-        "posY": 0.952114642,
-        "posZ": -17.984026,
-        "rotX": -1.05407889E-06,
+        "posX": 46.6631927,
+        "posY": 0.9521149,
+        "posZ": -18.0018024,
+        "rotX": 9.416697E-08,
         "rotY": 179.991257,
-        "rotZ": 1.350154E-07,
+        "rotZ": -3.25234737E-07,
         "scaleX": 0.875,
         "scaleY": 0.875,
         "scaleZ": 0.875
@@ -5905,12 +5905,12 @@
       "GUID": "84f4e4",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 46.65743,
-        "posY": 0.9470505,
-        "posZ": -19.0174026,
-        "rotX": -6.00310344E-08,
+        "posX": 46.6592674,
+        "posY": 0.9470504,
+        "posZ": -19.0530167,
+        "rotX": 6.38950155E-07,
         "rotY": 180.009552,
-        "rotZ": -1.05917813E-07,
+        "rotZ": -1.18476962E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -5955,12 +5955,12 @@
       "GUID": "47dcb0",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 46.6518936,
-        "posY": 0.942436337,
+        "posX": 46.651886,
+        "posY": 0.9424363,
         "posZ": -19.89936,
-        "rotX": -4.73740329E-07,
+        "rotX": -3.148507E-07,
         "rotY": 359.990356,
-        "rotZ": 2.530032E-08,
+        "rotZ": 1.73153552E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -6005,12 +6005,12 @@
       "GUID": "699f88",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 46.67316,
+        "posX": 46.5863533,
         "posY": 0.96046114,
-        "posZ": -20.733366,
-        "rotX": -2.49610866E-06,
+        "posZ": -20.70022,
+        "rotX": -3.75097716E-06,
         "rotY": 180.000778,
-        "rotZ": 8.68550558E-07,
+        "rotZ": 1.38577445E-06,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -6056,11 +6056,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 46.640934,
-        "posY": 0.9527178,
+        "posY": 0.952717662,
         "posZ": -21.6486759,
-        "rotX": -2.08785968E-06,
-        "rotY": -0.00329156243,
-        "rotZ": 2.4493994E-07,
+        "rotX": -2.424943E-06,
+        "rotY": -0.00329089025,
+        "rotZ": 1.00843351E-06,
         "scaleX": 1.75,
         "scaleY": 1.75,
         "scaleZ": 1.75
@@ -6105,12 +6105,12 @@
       "GUID": "c01623",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 46.57746,
-        "posY": 0.955893159,
-        "posZ": -22.58111,
-        "rotX": 1.96880728E-06,
+        "posX": 46.7579269,
+        "posY": 0.9558928,
+        "posZ": -22.60077,
+        "rotX": -2.58590433E-07,
         "rotY": 180.007965,
-        "rotZ": 5.16271E-07,
+        "rotZ": 2.94973432E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -6156,11 +6156,11 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 46.6466942,
-        "posY": 0.9588673,
+        "posY": 0.9588671,
         "posZ": -23.477808,
-        "rotX": -2.01046237E-06,
-        "rotY": -0.00159424613,
-        "rotZ": -1.77473351E-06,
+        "rotX": -3.03399747E-06,
+        "rotY": -0.00159358163,
+        "rotZ": 1.12582313E-06,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -6221,7 +6221,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.974340737,
-        "b": 0.188234091
+        "b": 0.188234
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -6405,7 +6405,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.6718582,
-        "b": 0.345096856
+        "b": 0.345096767
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -6484,7 +6484,7 @@
         "posX": 40.2086639,
         "posY": 1.06880045,
         "posZ": 26.3519382,
-        "rotX": 7.628415E-07,
+        "rotX": 5.098813E-07,
         "rotY": 179.970749,
         "rotZ": 180.0,
         "scaleX": 1.15041327,
@@ -7316,7 +7316,7 @@
         "posX": 37.6320152,
         "posY": 1.06880045,
         "posZ": 26.3331966,
-        "rotX": 3.06490875E-07,
+        "rotX": 7.998125E-07,
         "rotY": 180.000122,
         "rotZ": 180.0,
         "scaleX": 1.15041327,
@@ -8125,11 +8125,11 @@
       "GUID": "efecd0",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -40.6928177,
-        "posY": 1.15846157,
-        "posZ": -17.51255,
-        "rotX": -5.29802746E-05,
-        "rotY": 180.020645,
+        "posX": -40.6928635,
+        "posY": 1.15846193,
+        "posZ": -17.8314323,
+        "rotX": -5.31050173E-05,
+        "rotY": 180.020569,
         "rotZ": 180.013809,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -8175,10 +8175,10 @@
       "GUID": "0fe71c",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -36.3948135,
-        "posY": 1.15742612,
-        "posZ": -17.5243282,
-        "rotX": -5.7274734E-05,
+        "posX": -36.3949051,
+        "posY": 1.15742648,
+        "posZ": -17.8431988,
+        "rotX": -5.73846555E-05,
         "rotY": 180.038391,
         "rotZ": 180.013809,
         "scaleX": 4.399999,
@@ -8225,11 +8225,11 @@
       "GUID": "d08225",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -32.07122,
-        "posY": 1.15638435,
-        "posZ": -17.5082836,
-        "rotX": -5.56408522E-05,
-        "rotY": 180.031631,
+        "posX": -32.0712967,
+        "posY": 1.15638471,
+        "posZ": -17.827158,
+        "rotX": -5.57473759E-05,
+        "rotY": 180.03157,
         "rotZ": 180.013809,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -8275,12 +8275,12 @@
       "GUID": "36d4c4",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -29.188612,
-        "posY": 1.1042949,
-        "posZ": -22.07607,
-        "rotX": 0.0138728432,
+        "posX": -29.2611046,
+        "posY": 1.1043123,
+        "posZ": -22.2327957,
+        "rotX": 0.0138713457,
         "rotY": 90.026474,
-        "rotZ": 4.03203776E-05,
+        "rotZ": 4.09961431E-05,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -8289,8 +8289,8 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -8325,12 +8325,12 @@
       "GUID": "6c18b6",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -30.7401638,
-        "posY": 1.10893154,
-        "posZ": -22.1257,
-        "rotX": 0.0138728917,
+        "posX": -30.7153225,
+        "posY": 1.10892534,
+        "posZ": -22.1186123,
+        "rotX": 0.0138685079,
         "rotY": 89.9805145,
-        "rotZ": 3.01301225E-05,
+        "rotZ": 2.86139239E-05,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -8339,8 +8339,8 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -8375,12 +8375,12 @@
       "GUID": "13b4d8",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -29.9145546,
-        "posY": 1.10446978,
-        "posZ": -22.1845932,
+        "posX": -30.0710049,
+        "posY": 1.10450745,
+        "posZ": -22.1119022,
         "rotX": 359.9861,
         "rotY": 269.99823,
-        "rotZ": -3.345517E-05,
+        "rotZ": -3.39383369E-05,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -8389,8 +8389,8 @@
       "Description": "",
       "GMNotes": "",
       "ColorDiffuse": {
-        "r": 0.235290855,
-        "g": 0.164702684,
+        "r": 0.235290676,
+        "g": 0.1647025,
         "b": 0.984313667
       },
       "LayoutGroupSortIndex": 0,
@@ -8425,11 +8425,11 @@
       "GUID": "ddada2",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -7.97417259,
-        "posY": 1.15416014,
-        "posZ": -17.491848,
+        "posX": -7.974249,
+        "posY": 1.1542,
+        "posZ": -17.8107185,
         "rotX": 359.992859,
-        "rotY": 180.027145,
+        "rotY": 180.027069,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -8475,11 +8475,11 @@
       "GUID": "80c561",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -12.2974014,
-        "posY": 1.15416467,
-        "posZ": -17.5268841,
+        "posX": -12.2973156,
+        "posY": 1.15420449,
+        "posZ": -17.8457966,
         "rotX": 359.992859,
-        "rotY": 179.9691,
+        "rotY": 179.96907,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -8525,9 +8525,9 @@
       "GUID": "1ea37c",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -16.5715752,
-        "posY": 1.15416312,
-        "posZ": -17.51582,
+        "posX": -16.5715981,
+        "posY": 1.15420294,
+        "posZ": -17.8347015,
         "rotX": 359.992859,
         "rotY": 180.007828,
         "rotZ": 180.0,
@@ -8575,10 +8575,10 @@
       "GUID": "de65ea",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -5.30662,
-        "posY": 1.10334849,
-        "posZ": -22.1965923,
-        "rotX": -1.02406984E-05,
+        "posX": -5.46334743,
+        "posY": 1.103339,
+        "posZ": -22.1237774,
+        "rotX": -7.68438E-06,
         "rotY": 269.9886,
         "rotZ": 359.992828,
         "scaleX": 1.14999986,
@@ -8625,12 +8625,12 @@
       "GUID": "eba375",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -6.763135,
-        "posY": 1.10760856,
-        "posZ": -22.174757,
-        "rotX": 1.14154709E-05,
-        "rotY": 89.9848557,
-        "rotZ": 0.00715604564,
+        "posX": -6.73860359,
+        "posY": 1.10760736,
+        "posZ": -22.1675,
+        "rotX": -3.12702946E-06,
+        "rotY": 89.98483,
+        "rotZ": 0.00715660071,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -8675,10 +8675,10 @@
       "GUID": "9328e9",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -5.962591,
-        "posY": 1.10334992,
-        "posZ": -22.21258,
-        "rotX": -6.30533532E-06,
+        "posX": -6.119297,
+        "posY": 1.10334086,
+        "posZ": -22.1397533,
+        "rotX": -6.43498561E-06,
         "rotY": 269.9971,
         "rotZ": 359.992828,
         "scaleX": 1.14999986,
@@ -8725,11 +8725,11 @@
       "GUID": "b1e2ac",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 16.4424534,
-        "posY": 1.15416729,
-        "posZ": -17.6516552,
+        "posX": 16.44248,
+        "posY": 1.15420747,
+        "posZ": -17.9705544,
         "rotX": 359.992767,
-        "rotY": 179.990829,
+        "rotY": 179.990768,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -8776,8 +8776,8 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 12.1011839,
-        "posY": 1.154171,
-        "posZ": -17.68088,
+        "posY": 1.15421116,
+        "posZ": -17.99978,
         "rotX": 359.992767,
         "rotY": 180.0,
         "rotZ": 180.0,
@@ -8826,8 +8826,8 @@
       "Name": "Custom_Model",
       "Transform": {
         "posX": 7.810916,
-        "posY": 1.15416765,
-        "posZ": -17.6540585,
+        "posY": 1.154208,
+        "posZ": -17.9729519,
         "rotX": 359.992767,
         "rotY": 180.0,
         "rotZ": 180.0,
@@ -8875,10 +8875,10 @@
       "GUID": "39087e",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 19.0827961,
-        "posY": 1.10335875,
-        "posZ": -22.3319817,
-        "rotX": -2.741414E-06,
+        "posX": 18.9261436,
+        "posY": 1.10334945,
+        "posZ": -22.2591419,
+        "rotX": -6.68553139E-06,
         "rotY": 270.023163,
         "rotZ": 359.992767,
         "scaleX": 1.14999986,
@@ -8891,7 +8891,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -8925,10 +8925,10 @@
       "GUID": "6cf228",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 18.4063,
-        "posY": 1.1033603,
-        "posZ": -22.3461514,
-        "rotX": -6.05395553E-06,
+        "posX": 18.2496014,
+        "posY": 1.10335112,
+        "posZ": -22.2733345,
+        "rotX": -8.26884752E-06,
         "rotY": 269.999176,
         "rotZ": 359.992767,
         "scaleX": 1.14999986,
@@ -8941,7 +8941,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -8975,12 +8975,12 @@
       "GUID": "81747e",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 17.6100216,
-        "posY": 1.107615,
-        "posZ": -22.2796173,
-        "rotX": 9.157639E-06,
+        "posX": 17.6345539,
+        "posY": 1.10761428,
+        "posZ": -22.2723656,
+        "rotX": 1.018692E-05,
         "rotY": 90.00306,
-        "rotZ": 0.00723833824,
+        "rotZ": 0.00723708561,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -8991,7 +8991,7 @@
       "ColorDiffuse": {
         "r": 0.796078444,
         "g": 0.0,
-        "b": 0.113283269
+        "b": 0.113283075
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -9025,11 +9025,11 @@
       "GUID": "97b93b",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 40.722683,
+        "posX": 40.72266,
         "posY": 1.15521646,
-        "posZ": -17.6516533,
-        "rotX": -6.953027E-06,
-        "rotY": 180.007675,
+        "posZ": -17.97055,
+        "rotX": -6.92014373E-06,
+        "rotY": 180.00766,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -9077,9 +9077,9 @@
       "Transform": {
         "posX": 36.3844223,
         "posY": 1.155216,
-        "posZ": -17.6323261,
-        "rotX": -6.98823123E-06,
-        "rotY": 180.000351,
+        "posZ": -17.95122,
+        "rotX": -6.87624743E-06,
+        "rotY": 180.000336,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -9125,11 +9125,11 @@
       "GUID": "87f651",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 32.0629845,
+        "posX": 32.06296,
         "posY": 1.15521538,
-        "posZ": -17.6207,
-        "rotX": -6.90863135E-06,
-        "rotY": 180.008514,
+        "posZ": -17.93959,
+        "rotX": -6.88751152E-06,
+        "rotY": 180.0085,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -9175,12 +9175,12 @@
       "GUID": "60c9d3",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 43.26204,
-        "posY": 1.10381818,
-        "posZ": -22.316555,
-        "rotX": 7.113865E-06,
+        "posX": 43.1053772,
+        "posY": 1.103818,
+        "posZ": -22.2438469,
+        "rotX": 6.52233757E-06,
         "rotY": 270.0224,
-        "rotZ": -7.113743E-06,
+        "rotZ": -7.07942172E-06,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -9225,12 +9225,12 @@
       "GUID": "6ae8d7",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 41.885807,
-        "posY": 1.10808122,
-        "posZ": -22.2583351,
-        "rotX": -6.93579477E-06,
+        "posX": 41.9103279,
+        "posY": 1.108081,
+        "posZ": -22.2512436,
+        "rotX": -8.086856E-06,
         "rotY": 89.97696,
-        "rotZ": 7.06573655E-06,
+        "rotZ": 7.308924E-06,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -9275,12 +9275,12 @@
       "GUID": "e30af3",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 42.5859642,
-        "posY": 1.10381818,
-        "posZ": -22.3264217,
-        "rotX": 7.33614661E-06,
+        "posX": 42.42926,
+        "posY": 1.10381794,
+        "posZ": -22.2537231,
+        "rotX": 6.087016E-06,
         "rotY": 269.998047,
-        "rotZ": -7.14042471E-06,
+        "rotZ": -7.019395E-06,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -9325,11 +9325,11 @@
       "GUID": "06ffec",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 35.01716,
-        "posY": 1.1541605,
-        "posZ": 6.378246,
+        "posX": 35.21166,
+        "posY": 1.15418434,
+        "posZ": 6.183676,
         "rotX": 359.992981,
-        "rotY": 90.02176,
+        "rotY": 90.02177,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -9375,9 +9375,9 @@
       "GUID": "ab70f6",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 35.0022354,
-        "posY": 1.154159,
-        "posZ": 2.09044027,
+        "posX": 35.19674,
+        "posY": 1.15418267,
+        "posZ": 1.89595687,
         "rotX": 359.992981,
         "rotY": 89.99133,
         "rotZ": 180.0,
@@ -9425,11 +9425,11 @@
       "GUID": "37b27c",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 34.98001,
-        "posY": 1.15415609,
-        "posZ": -2.23142958,
+        "posX": 35.1745224,
+        "posY": 1.15417993,
+        "posZ": -2.42591262,
         "rotX": 359.992981,
-        "rotY": 89.9912338,
+        "rotY": 89.99123,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -9475,11 +9475,11 @@
       "GUID": "3a2161",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 39.69856,
-        "posY": 1.10333419,
-        "posZ": 9.026007,
-        "rotX": -9.20889852E-06,
-        "rotY": 179.9808,
+        "posX": 39.4690666,
+        "posY": 1.103306,
+        "posZ": 8.941955,
+        "rotX": -8.605782E-06,
+        "rotY": 179.9807,
         "rotZ": 359.992981,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
@@ -9491,7 +9491,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -9525,12 +9525,12 @@
       "GUID": "66d4c1",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 39.6699867,
+        "posX": 39.66982,
         "posY": 1.10759377,
-        "posZ": 7.559084,
-        "rotX": 1.77140964E-06,
-        "rotY": 359.983276,
-        "rotZ": 0.0070178546,
+        "posZ": 7.559079,
+        "rotX": 1.29539749E-05,
+        "rotY": 359.983246,
+        "rotZ": 0.00701746,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -9541,7 +9541,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -9575,11 +9575,11 @@
       "GUID": "9cbdd2",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": 39.7054329,
-        "posY": 1.10333514,
-        "posZ": 8.330216,
-        "rotX": -1.16845658E-05,
-        "rotY": 179.998978,
+        "posX": 39.4759178,
+        "posY": 1.10330713,
+        "posZ": 8.24620152,
+        "rotX": -1.38951982E-05,
+        "rotY": 179.998962,
         "rotZ": 359.992981,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
@@ -9591,7 +9591,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.495730281,
-        "b": 0.188232154
+        "b": 0.188231975
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -9625,9 +9625,9 @@
       "GUID": "c7993d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -35.54549,
-        "posY": 1.15471971,
-        "posZ": 3.1654,
+        "posX": -35.6698532,
+        "posY": 1.15478742,
+        "posZ": 3.04098368,
         "rotX": 359.968781,
         "rotY": 269.987457,
         "rotZ": 180.0,
@@ -9675,11 +9675,11 @@
       "GUID": "42c108",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -35.53903,
-        "posY": 1.15471661,
-        "posZ": 7.4480567,
+        "posX": -35.6634026,
+        "posY": 1.15478432,
+        "posZ": 7.32361364,
         "rotX": 359.968781,
-        "rotY": 269.977844,
+        "rotY": 269.977783,
         "rotZ": 180.000015,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -9725,11 +9725,11 @@
       "GUID": "d9958d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -35.5129967,
-        "posY": 1.15470278,
-        "posZ": 11.7641068,
+        "posX": -35.63736,
+        "posY": 1.15477049,
+        "posZ": 11.6397114,
         "rotX": 359.968781,
-        "rotY": 269.9959,
+        "rotY": 269.99585,
         "rotZ": 180.0,
         "scaleX": 4.399999,
         "scaleY": 4.399999,
@@ -9775,12 +9775,12 @@
       "GUID": "48cff0",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -40.1704254,
-        "posY": 1.10996735,
-        "posZ": 1.90444279,
-        "rotX": 2.32849488E-05,
-        "rotY": 180.009521,
-        "rotZ": 0.0312489737,
+        "posX": -40.1366653,
+        "posY": 1.10994864,
+        "posZ": 1.88623488,
+        "rotX": 2.5654921E-05,
+        "rotY": 180.009781,
+        "rotZ": 0.031247722,
         "scaleX": 1.19999981,
         "scaleY": 1.19999981,
         "scaleZ": 1.19999981
@@ -9825,12 +9825,12 @@
       "GUID": "bb3f3e",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -40.0979576,
-        "posY": 1.10547924,
-        "posZ": 1.15921426,
-        "rotX": 2.119346E-05,
-        "rotY": 180.0129,
-        "rotZ": 0.0312603973,
+        "posX": -40.3367577,
+        "posY": 1.105609,
+        "posZ": 1.07157528,
+        "rotX": 2.145763E-05,
+        "rotY": 180.012985,
+        "rotZ": 0.0312580764,
         "scaleX": 1.19999981,
         "scaleY": 1.19999981,
         "scaleZ": 1.19999981
@@ -9875,12 +9875,12 @@
       "GUID": "fffe14",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -40.1075859,
-        "posY": 1.10548437,
-        "posZ": 0.449180424,
-        "rotX": 2.78757634E-05,
-        "rotY": 180.003128,
-        "rotZ": 0.0312556848,
+        "posX": -40.34637,
+        "posY": 1.1056143,
+        "posZ": 0.361520648,
+        "rotX": 2.782051E-05,
+        "rotY": 180.0031,
+        "rotZ": 0.031258136,
         "scaleX": 1.19999981,
         "scaleY": 1.19999981,
         "scaleZ": 1.19999981
@@ -9925,12 +9925,12 @@
       "GUID": "663235",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -18.0945568,
-        "posY": 0.952600956,
-        "posZ": -1.90612447,
-        "rotX": 1.97857815E-07,
+        "posX": -18.0945644,
+        "posY": 0.952601,
+        "posZ": -1.90610516,
+        "rotX": -1.66945441E-07,
         "rotY": 359.990356,
-        "rotZ": 1.02402808E-07,
+        "rotZ": 7.737278E-08,
         "scaleX": 1.14999986,
         "scaleY": 1.14999986,
         "scaleZ": 1.14999986
@@ -12583,12 +12583,12 @@
       "GUID": "cc5d43",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -15.1042519,
+        "posX": -15.296916,
         "posY": 0.960000038,
-        "posZ": 12.8151016,
-        "rotX": 3.13474757E-09,
+        "posZ": 14.0370111,
+        "rotX": 6.926556E-08,
         "rotY": 270.0147,
-        "rotZ": -2.21749872E-08,
+        "rotZ": -1.00035127E-08,
         "scaleX": 5.30000067,
         "scaleY": 5.30000067,
         "scaleZ": 5.30000067
@@ -12599,7 +12599,7 @@
       "ColorDiffuse": {
         "r": 0.6776038,
         "g": 1.0,
-        "b": 0.345093846
+        "b": 0.345093638
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -12685,7 +12685,7 @@
       "Name": "Infinite_Bag",
       "Transform": {
         "posX": 22.45762,
-        "posY": 0.94045,
+        "posY": 0.9404501,
         "posZ": 5.2685957,
         "rotX": -2.61950981E-06,
         "rotY": -7.291524E-05,
@@ -12700,7 +12700,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.6718582,
-        "b": 0.345096827
+        "b": 0.345096737
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -12884,7 +12884,7 @@
       "ColorDiffuse": {
         "r": 1.0,
         "g": 0.974340737,
-        "b": 0.188234061
+        "b": 0.188233972
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -12950,176 +12950,6 @@
             "TypeIndex": 5,
             "CastShadows": true
           },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
-      "GUID": "b50136",
-      "Name": "Infinite_Bag",
-      "Transform": {
-        "posX": 22.4767284,
-        "posY": 0.9429999,
-        "posZ": -3.89534068,
-        "rotX": 6.84448935E-07,
-        "rotY": 0.00358928018,
-        "rotZ": 3.75872759E-07,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "Grape/Wine tokens",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.5282701,
-        "g": 0.08291029,
-        "b": 0.8066201
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": true,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "MaterialIndex": -1,
-      "MeshIndex": -1,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "ContainedObjects": [
-        {
-          "GUID": "31d606",
-          "Name": "go_game_piece_white",
-          "Transform": {
-            "posX": 23.05949,
-            "posY": 3.171531,
-            "posZ": -3.09567642,
-            "rotX": 4.728522,
-            "rotY": 359.918274,
-            "rotZ": 358.034729,
-            "scaleX": 0.8000002,
-            "scaleY": 0.8000002,
-            "scaleZ": 0.8000002
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.894117653,
-            "g": 0.894117653,
-            "b": 0.894117653,
-            "a": 0.3921933
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "XmlUI": ""
-        }
-      ]
-    },
-    {
-      "GUID": "977590",
-      "Name": "Infinite_Bag",
-      "Transform": {
-        "posX": -23.4269466,
-        "posY": 0.94299984,
-        "posZ": -3.61436462,
-        "rotX": 3.985277E-06,
-        "rotY": 179.9799,
-        "rotZ": 4.33830837E-06,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "Grape/Wine tokens",
-      "Description": "",
-      "GMNotes": "",
-      "ColorDiffuse": {
-        "r": 0.5282701,
-        "g": 0.08291026,
-        "b": 0.8066201
-      },
-      "LayoutGroupSortIndex": 0,
-      "Value": 0,
-      "Locked": true,
-      "Grid": true,
-      "Snap": true,
-      "IgnoreFoW": false,
-      "MeasureMovement": false,
-      "DragSelectable": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "GridProjection": false,
-      "HideWhenFaceDown": false,
-      "Hands": false,
-      "MaterialIndex": -1,
-      "MeshIndex": -1,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "XmlUI": "",
-      "ContainedObjects": [
-        {
-          "GUID": "31d606",
-          "Name": "go_game_piece_white",
-          "Transform": {
-            "posX": 23.05949,
-            "posY": 3.171531,
-            "posZ": -3.09567642,
-            "rotX": 4.728522,
-            "rotY": 359.918274,
-            "rotZ": 358.034729,
-            "scaleX": 0.8000002,
-            "scaleY": 0.8000002,
-            "scaleZ": 0.8000002
-          },
-          "Nickname": "",
-          "Description": "",
-          "GMNotes": "",
-          "ColorDiffuse": {
-            "r": 0.894117653,
-            "g": 0.894117653,
-            "b": 0.894117653,
-            "a": 0.3921933
-          },
-          "LayoutGroupSortIndex": 0,
-          "Value": 0,
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "IgnoreFoW": false,
-          "MeasureMovement": false,
-          "DragSelectable": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "GridProjection": false,
-          "HideWhenFaceDown": false,
-          "Hands": false,
           "LuaScript": "",
           "LuaScriptState": "",
           "XmlUI": ""
@@ -13225,9 +13055,9 @@
         "posX": -10.5501595,
         "posY": 2.51124573,
         "posZ": 36.2526,
-        "rotX": 0.00120274466,
+        "rotX": 0.001202746,
         "rotY": 89.9942,
-        "rotZ": -0.0008612267,
+        "rotZ": -0.000861226639,
         "scaleX": 3.09999824,
         "scaleY": 3.09999824,
         "scaleZ": 3.09999824
@@ -13237,7 +13067,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.19999969,
+        "g": 0.1999996,
         "b": 0.8235294,
         "a": 0.0
       },
@@ -13266,7 +13096,7 @@
         "posX": -10.3671741,
         "posY": 5.61065769,
         "posZ": 36.1762962,
-        "rotX": 0.0138998115,
+        "rotX": 0.0138998386,
         "rotY": 90.01749,
         "rotZ": 359.949158,
         "scaleX": 3.09999824,
@@ -13278,7 +13108,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.19999969,
+        "g": 0.1999996,
         "b": 0.8235294,
         "a": 0.0
       },
@@ -13319,7 +13149,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.19999969,
+        "g": 0.1999996,
         "b": 0.8235294,
         "a": 0.0
       },
@@ -13360,7 +13190,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.19999969,
+        "g": 0.1999996,
         "b": 0.8235294,
         "a": 0.0
       },
@@ -13386,12 +13216,12 @@
       "GUID": "b59d15",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -1.96817088,
+        "posX": -1.96816921,
         "posY": 0.9576497,
         "posZ": -23.1078682,
-        "rotX": 1.13631678E-07,
+        "rotX": -3.0800058E-07,
         "rotY": 359.987885,
-        "rotZ": -1.15932515E-07,
+        "rotZ": -1.61587607E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -13401,7 +13231,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13436,12 +13266,12 @@
       "GUID": "5a9791",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -1.974826,
+        "posX": -1.97482312,
         "posY": 0.9515004,
         "posZ": -21.2702389,
-        "rotX": 2.28249021E-07,
+        "rotX": -2.36158986E-08,
         "rotY": 359.993134,
-        "rotZ": 1.45017074E-08,
+        "rotZ": -1.7304292E-07,
         "scaleX": 1.75,
         "scaleY": 1.75,
         "scaleZ": 1.75
@@ -13451,7 +13281,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13486,12 +13316,12 @@
       "GUID": "b8992f",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -1.95442712,
-        "posY": 0.9592436,
-        "posZ": -20.4718227,
-        "rotX": 1.33435515E-05,
+        "posX": -2.04123163,
+        "posY": 0.9592437,
+        "posZ": -20.438673,
+        "rotX": 7.31595037E-07,
         "rotY": 180.000732,
-        "rotZ": 1.53074859E-06,
+        "rotZ": -2.30521692E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -13501,7 +13331,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13536,12 +13366,12 @@
       "GUID": "a34b78",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -1.97483706,
-        "posY": 0.941218734,
+        "posX": -1.97483659,
+        "posY": 0.9412188,
         "posZ": -19.6480446,
-        "rotX": -6.19054561E-07,
-        "rotY": 0.0005787085,
-        "rotZ": 2.07778768E-07,
+        "rotX": -1.35656376E-06,
+        "rotY": 0.000578732,
+        "rotZ": 2.28725185E-07,
         "scaleX": 1.25,
         "scaleY": 1.25,
         "scaleZ": 1.25
@@ -13551,7 +13381,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13586,12 +13416,12 @@
       "GUID": "f2f89f",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -1.99839962,
+        "posX": -1.99656439,
         "posY": 0.945833147,
-        "posZ": -18.6644249,
-        "rotX": -3.82797452E-06,
+        "posZ": -18.7000351,
+        "rotX": -5.238697E-07,
         "rotY": 180.0096,
-        "rotZ": 9.862289E-07,
+        "rotZ": 2.032281E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13601,7 +13431,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13636,12 +13466,12 @@
       "GUID": "0c5e4d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -2.0376718,
-        "posY": 0.9508976,
-        "posZ": -17.7625389,
-        "rotX": 2.4709243E-06,
+        "posX": -2.04254031,
+        "posY": 0.950897455,
+        "posZ": -17.7803154,
+        "rotX": 2.713315E-07,
         "rotY": 179.999832,
-        "rotZ": -5.67073869E-07,
+        "rotZ": 1.45110022E-07,
         "scaleX": 0.875,
         "scaleY": 0.875,
         "scaleZ": 0.875
@@ -13651,7 +13481,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13686,12 +13516,12 @@
       "GUID": "364b0d",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -2.0538125,
-        "posY": 0.959004,
-        "posZ": -16.6094341,
-        "rotX": -2.53382922E-07,
+        "posX": -2.09136438,
+        "posY": 0.959003866,
+        "posZ": -16.51277,
+        "rotX": -5.08426069E-07,
         "rotY": 179.99968,
-        "rotZ": -5.31464757E-08,
+        "rotZ": 6.128347E-08,
         "scaleX": 0.85,
         "scaleY": 0.85,
         "scaleZ": 0.85
@@ -13701,7 +13531,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13736,12 +13566,12 @@
       "GUID": "125300",
       "Name": "Custom_Model",
       "Transform": {
-        "posX": -2.042021,
-        "posY": 0.9546753,
-        "posZ": -22.134182,
-        "rotX": -2.70399323E-06,
+        "posX": -1.86155784,
+        "posY": 0.954675436,
+        "posZ": -22.1538429,
+        "rotX": -7.01126964E-07,
         "rotY": 180.0022,
-        "rotZ": 1.16378033E-06,
+        "rotZ": -1.579101E-07,
         "scaleX": 1.3,
         "scaleY": 1.3,
         "scaleZ": 1.3
@@ -13751,7 +13581,7 @@
       "GMNotes": "",
       "ColorDiffuse": {
         "r": 0.0,
-        "g": 0.5098026,
+        "g": 0.5098022,
         "b": 0.0
       },
       "LayoutGroupSortIndex": 0,
@@ -13787,7 +13617,7 @@
       "Name": "Checker_red",
       "Transform": {
         "posX": 22.0057163,
-        "posY": 0.960000157,
+        "posY": 0.9600001,
         "posZ": -5.94164,
         "rotX": -7.88088755E-07,
         "rotY": 179.999985,
@@ -13819,8 +13649,9 @@
       "GridProjection": false,
       "HideWhenFaceDown": false,
       "Hands": false,
-      "LuaScript": "year_button_parameters = {}\r\nyear_button_parameters.click_function = 'passYear'\r\nyear_button_parameters.function_owner = self\r\nyear_button_parameters.label = 'Pass Year'\r\nyear_button_parameters.tooltip = 'Pass Year'\r\nyear_button_parameters.position = {-2.08,0.08,-0.8}\r\nyear_button_parameters.rotation = {0,0,0}\r\nyear_button_parameters.width = 900\r\nyear_button_parameters.height = 600\r\nyear_button_parameters.font_size = 190\r\nyear_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\nstart_button_parameters = {}\r\nstart_button_parameters.click_function = 'startTheGame'\r\nstart_button_parameters.function_owner = self\r\nstart_button_parameters.label = 'Start'\r\nstart_button_parameters.tooltip = 'Start'\r\nstart_button_parameters.position = {-2.08,0.08,-0.8}\r\nstart_button_parameters.rotation = {0,0,0}\r\nstart_button_parameters.width = 900\r\nstart_button_parameters.height = 600\r\nstart_button_parameters.font_size = 190\r\nstart_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\nend_button_parameters = {}\r\nend_button_parameters.click_function = 'endTheGame'\r\nend_button_parameters.function_owner = self\r\nend_button_parameters.label = 'End game'\r\nend_button_parameters.tooltip = 'End game'\r\nend_button_parameters.position = {-2.08,0.08,-0.8}\r\nend_button_parameters.rotation = {0,0,0}\r\nend_button_parameters.width = 900\r\nend_button_parameters.height = 600\r\nend_button_parameters.font_size = 190\r\nend_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\none_mama_button_parameters = {}\r\none_mama_button_parameters.click_function = 'dealOneMama'\r\none_mama_button_parameters.function_owner = self\r\none_mama_button_parameters.label = 'Deal 1\\nMama/Papa'\r\none_mama_button_parameters.tooltip = 'Deal 1\\nMama/Papa'\r\none_mama_button_parameters.position = {-2.08,0.3,-1.45}\r\none_mama_button_parameters.rotation = {0,0,0}\r\none_mama_button_parameters.width = 900\r\none_mama_button_parameters.height = 600\r\none_mama_button_parameters.font_size = 160\r\none_mama_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\ntwo_mama_button_parameters = {}\r\ntwo_mama_button_parameters.click_function = 'dealTwoMama'\r\ntwo_mama_button_parameters.function_owner = self\r\ntwo_mama_button_parameters.label = 'Deal 2\\nMama/Papa'\r\ntwo_mama_button_parameters.tooltip = 'Deal 2\\nMama/Papa'\r\ntwo_mama_button_parameters.position = {-2.08,0.3,-0.1}\r\ntwo_mama_button_parameters.rotation = {0,0,0}\r\ntwo_mama_button_parameters.width = 900\r\ntwo_mama_button_parameters.height = 600\r\ntwo_mama_button_parameters.font_size = 160\r\ntwo_mama_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\nself.createButton(one_mama_button_parameters)\r\nself.createButton(two_mama_button_parameters)\r\n\r\nALL_PLAYERS = {\"Yellow\",\"Blue\",\"Green\",\"Red\",\"White\",\"Orange\"}\r\nCURRENT_YEAR = 1\r\nCURRENT_SEASON = \"Spring\"\r\nSEATED_PLAYERS = nil\r\nPASSING = false\r\nGAME_STARTED = false\r\nGAME_ENDING = false\r\nSTART_TIME = 0\r\nEND_TIME = 0\r\n\r\nyellow_player_hand_count_on_fall = 0\r\nblue_player_hand_count_on_fall = 0\r\ngreen_player_hand_count_on_fall = 0\r\nred_player_hand_count_on_fall = 0\r\nwhite_player_hand_count_on_fall = 0\r\norange_player_hand_count_on_fall = 0\r\nyellow_player_hand_count_on_fall_after = 0\r\nblue_player_hand_count_on_fall_after = 0\r\ngreen_player_hand_count_on_fall_after = 0\r\nred_player_hand_count_on_fall_after = 0\r\nwhite_player_hand_count_on_fall_after = 0\r\norange_player_hand_count_on_fall_after = 0\r\n\r\nfirstPlayerToken = getObjectFromGUID(\"cc5d43\")\r\nfreeWorker = getObjectFromGUID(\"663235\")\r\n\r\npapaDeck = getObjectFromGUID(\"1f6e2b\")\r\nmamaDeck = getObjectFromGUID(\"513562\")\r\nvineDeck = getObjectFromGUID(\"14512d\")\r\nsummerDeck = getObjectFromGUID(\"b81cb8\")\r\norderDeck = getObjectFromGUID(\"e94dd3\")\r\nwinterDeck = getObjectFromGUID(\"4a50fd\")\r\n\r\nfiveLiraBag = getObjectFromGUID(\"59d3af\")\r\ntwoLiraBag = getObjectFromGUID(\"ee6b2c\")\r\noneLiraBag = getObjectFromGUID(\"4122be\")\r\n\r\n--- Yellow Player Objects\r\nyellowWorkerBag1 = getObjectFromGUID(\"848b48\")\r\nyellowGrande = getObjectFromGUID(\"48cff0\")\r\nyellowWorker1 = getObjectFromGUID(\"bb3f3e\")\r\nyellowWorker2 = getObjectFromGUID(\"fffe14\")\r\nyellowCork = getObjectFromGUID(\"4325c0\")\r\nyellowBottle = getObjectFromGUID(\"954bc5\")\r\nyellowCock = getObjectFromGUID(\"8d8472\")\r\n\r\n--- Blue Player Objects\r\nblueWorkerBag1 = getObjectFromGUID(\"df5018\")\r\nblueGrande = getObjectFromGUID(\"6c18b6\")\r\nblueWorker1 = getObjectFromGUID(\"13b4d8\")\r\nblueWorker2 = getObjectFromGUID(\"36d4c4\")\r\nblueCork = getObjectFromGUID(\"96ff9b\")\r\nblueBottle = getObjectFromGUID(\"860d0c\")\r\nblueCock = getObjectFromGUID(\"3562d1\")\r\n\r\n--- Green Player Objects\r\ngreenWorkerBag1 = getObjectFromGUID(\"6b4d6d\")\r\ngreenGrande = getObjectFromGUID(\"eba375\")\r\ngreenWorker1 = getObjectFromGUID(\"9328e9\")\r\ngreenWorker2 = getObjectFromGUID(\"de65ea\")\r\ngreenCork = getObjectFromGUID(\"cc728c\")\r\ngreenBottle = getObjectFromGUID(\"2647fb\")\r\ngreenCock = getObjectFromGUID(\"62624d\")\r\n\r\n--- Red Player Objects\r\nredWorkerBag1 = getObjectFromGUID(\"6b4d6d\")\r\nredGrande = getObjectFromGUID(\"81747e\")\r\nredWorker1 = getObjectFromGUID(\"6cf228\")\r\nredWorker2 = getObjectFromGUID(\"39087e\")\r\nredCork = getObjectFromGUID(\"a885e1\")\r\nredBottle = getObjectFromGUID(\"4c6f33\")\r\nredCock = getObjectFromGUID(\"7a6e85\")\r\n\r\n--- White Player Objects\r\nwhiteWorkerBag1 = getObjectFromGUID(\"063ca2\")\r\nwhiteGrande = getObjectFromGUID(\"6ae8d7\")\r\nwhiteWorker1 = getObjectFromGUID(\"e30af3\")\r\nwhiteWorker2 = getObjectFromGUID(\"60c9d3\")\r\nwhiteCork = getObjectFromGUID(\"601a4a\")\r\nwhiteBottle = getObjectFromGUID(\"88cf7d\")\r\nwhiteCock = getObjectFromGUID(\"183f84\")\r\n\r\n--- Orange Player Objects\r\norangeWorkerBag1 = getObjectFromGUID(\"1ac03d\")\r\norangeGrande = getObjectFromGUID(\"66d4c1\")\r\norangeWorker1 = getObjectFromGUID(\"9cbdd2\")\r\norangeWorker2 = getObjectFromGUID(\"3a2161\")\r\norangeCork = getObjectFromGUID(\"84f12e\")\r\norangeBottle = getObjectFromGUID(\"ed72ab\")\r\norangeCock = getObjectFromGUID(\"9fa940\")\r\n\r\n\r\nfunction onUpdate()\r\n    SEATED_PLAYERS = getSortedSeatedPlayers()\r\n\r\n    --- Yellow Player Objects\r\n    yellowWorker3 = getObjectFromGUID(\"313628\")\r\n    yellowWorker4 = getObjectFromGUID(\"0375f2\")\r\n    yellowWorker5 = getObjectFromGUID(\"b05428\")\r\n\r\n    --- Blue Player Objects\r\n    blueWorker3 = getObjectFromGUID(\"a805d6\")\r\n    blueWorker4 = getObjectFromGUID(\"582631\")\r\n    blueWorker5 = getObjectFromGUID(\"dd659e\")\r\n\r\n    --- Green Player Objects\r\n    greenWorker3 = getObjectFromGUID(\"898c56\")\r\n    greenWorker4 = getObjectFromGUID(\"a891f3\")\r\n    greenWorker5 = getObjectFromGUID(\"5897c0\")\r\n\r\n    --- Red Player Objects\r\n    redWorker3 = getObjectFromGUID(\"daa81f\")\r\n    redWorker4 = getObjectFromGUID(\"593b6e\")\r\n    redWorker5 = getObjectFromGUID(\"91f5bf\")\r\n\r\n    --- White Player Objects\r\n    whiteWorker3 = getObjectFromGUID(\"54f41a\")\r\n    whiteWorker4 = getObjectFromGUID(\"2ddbdd\")\r\n    whiteWorker5 = getObjectFromGUID(\"b0073f\")\r\n\r\n    --- Orange Player Objects\r\n    orangeWorker3 = getObjectFromGUID(\"d2312b\")\r\n    orangeWorker4 = getObjectFromGUID(\"20bdef\")\r\n    orangeWorker5 = getObjectFromGUID(\"272d0e\")\r\n\r\n    if checkEndGame(SEATED_PLAYERS) and GAME_ENDING == false and GAME_STARTED == true then\r\n        GAME_ENDING = true\r\n        self.clearButtons()\r\n        self.createButton(end_button_parameters)\r\n    end\r\n\r\n    if not checkEndGame(SEATED_PLAYERS) and GAME_ENDING == true and GAME_STARTED == true then\r\n        GAME_ENDING = false\r\n        self.clearButtons()\r\n        self.createButton(year_button_parameters)\r\n    end\r\nend\r\n\r\nWait.time(\r\n    function()\r\n        if CURRENT_SEASON == \"Spring\" and PASSING == false then\r\n            if (\r\n            (isPlaying(SEATED_PLAYERS,\"Yellow\") and checkCockSide(yellowCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Blue\") and checkCockSide(blueCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Green\") and checkCockSide(greenCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Red\") and checkCockSide(redCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"White\") and checkCockSide(whiteCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Orange\") and checkCockSide(orangeCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n            ) then\r\n                broadcastToAll(\"All players chosen their wake up time.\\nIt is Summer, place your workers!\")\r\n                CURRENT_SEASON = \"Summer\"\r\n            end\r\n        end\r\n        if CURRENT_SEASON == \"Summer\" and PASSING == false then\r\n            if (\r\n            (isPlaying(SEATED_PLAYERS,\"Yellow\") and checkCockSide(yellowCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Blue\") and checkCockSide(blueCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Green\") and checkCockSide(greenCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Red\") and checkCockSide(redCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"White\") and checkCockSide(whiteCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Orange\") and checkCockSide(orangeCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n            ) then\r\n                broadcastToAll(\"All players have passed.\\nIt is Fall, draw your visitor cards!\")\r\n                CURRENT_SEASON = \"Fall\"\r\n                if isPlaying(SEATED_PLAYERS,\"Yellow\") then\r\n                    yellow_player_hand_count_on_fall = #(Player[\"Yellow\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Blue\") then\r\n                    blue_player_hand_count_on_fall = #(Player[\"Blue\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Green\") then\r\n                    green_player_hand_count_on_fall = #(Player[\"Green\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Red\") then\r\n                    red_player_hand_count_on_fall = #(Player[\"Red\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"White\") then\r\n                    white_player_hand_count_on_fall = #(Player[\"White\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Orange\") then\r\n                    orange_player_hand_count_on_fall = #(Player[\"Orange\"].getHandObjects())\r\n                end\r\n            end\r\n        end\r\n\r\n        if CURRENT_SEASON == \"Fall\" then\r\n            if isPlaying(SEATED_PLAYERS,\"Yellow\") then\r\n                yellow_player_hand_count_on_fall_after = #(Player[\"Yellow\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Blue\") then\r\n                blue_player_hand_count_on_fall_after = #(Player[\"Blue\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Green\") then\r\n                green_player_hand_count_on_fall_after = #(Player[\"Green\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Red\") then\r\n                red_player_hand_count_on_fall_after = #(Player[\"Red\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"White\") then\r\n                white_player_hand_count_on_fall_after = #(Player[\"White\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Orange\") then\r\n                orange_player_hand_count_on_fall_after = #(Player[\"Orange\"].getHandObjects())\r\n            end\r\n            if(\r\n                (isPlaying(SEATED_PLAYERS,\"Yellow\") and (yellow_player_hand_count_on_fall_after > yellow_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Blue\") and (blue_player_hand_count_on_fall_after > blue_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Green\") and (green_player_hand_count_on_fall_after > green_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Red\") and (red_player_hand_count_on_fall_after > red_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"White\") and (white_player_hand_count_on_fall_after > white_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Orange\") and (orange_player_hand_count_on_fall_after > orange_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n\r\n            ) then\r\n                broadcastToAll(\"All players have drawn their visitor cards.\\nIt is Winter, place your workers!\")\r\n                CURRENT_SEASON = \"Winter\"\r\n            end\r\n        end\r\n\r\n        if CURRENT_SEASON == \"Winter\" and PASSING == false then\r\n            if (\r\n            (isPlaying(SEATED_PLAYERS,\"Yellow\") and checkCockSide(yellowCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Blue\") and checkCockSide(blueCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Green\") and checkCockSide(greenCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Red\") and checkCockSide(redCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"White\") and checkCockSide(whiteCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Orange\") and checkCockSide(orangeCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n            ) then\r\n                broadcastToAll(\"All players have passed.\\nThe year has ended, click on the Pass Year button!\")\r\n                CURRENT_SEASON = nil\r\n            end\r\n        end\r\n    end,\r\n    2,\r\n    -1\r\n)\r\n\r\nfunction checkCockSide(cock)\r\n    if (cock.getPosition()[1] > -21 and cock.getPosition()[1] < -16 and cock.getPosition()[3] > -3 and cock.getPosition()[3] < 7.5 and cock.getPosition()[2] > 0.9 and cock.getPosition()[2] < 1) then\r\n        -- Cock is inside the track\r\n        if cock.getPosition()[1] < -19 then\r\n            return \"Left\"\r\n        else\r\n            return \"Right\"\r\n        end\r\n    else\r\n        return nil\r\n    end\r\nend\r\n\r\nfunction dealOneMama()\r\n    self.clearButtons()\r\n    self.createButton(start_button_parameters)\r\n    broadcastToAll(\"Receive the resources from your Mama and Papa cards\", {0,255,0})\r\n    dealMamaPapa(SEATED_PLAYERS,1)\r\nend\r\n\r\nfunction dealTwoMama()\r\n    self.clearButtons()\r\n    self.createButton(start_button_parameters)\r\n    broadcastToAll(\"Chose one of each Mama and Papa card and receive the resources from them\", {0,255,0})\r\n    dealMamaPapa(SEATED_PLAYERS,2)\r\nend\r\n\r\nfunction startTheGame()\r\n    GAME_STARTED = true\r\n    START_TIME = os.time()\r\n    print(\".\\n.\\n.\\n\")\r\n    CURRENT_SEASON = \"Spring\"\r\n    CURRENT_FIRST_PLAYER = setFirstPlayer(SEATED_PLAYERS)\r\n    moveFirstPlayerToken(CURRENT_FIRST_PLAYER)\r\n    initialPositionCock(SEATED_PLAYERS)\r\n    initialPositionWorkers(SEATED_PLAYERS)\r\n    initialPositionCork(SEATED_PLAYERS)\r\n    initialPositionBottle(SEATED_PLAYERS)\r\n    self.clearButtons()\r\n    self.createButton(year_button_parameters)\r\n    Wait.time(\r\n        function()\r\n            broadcastToAll(\"Starting the year \"..CURRENT_YEAR..\"\\n It is spring, chose your wake up hour!\")\r\n            print(\"...\"..CURRENT_FIRST_PLAYER..\" will be the first player\")\r\n        end,\r\n        2.5\r\n    )\r\nend\r\n\r\nfunction endTheGame()\r\n    if(checkWorkersWerePlaced(SEATED_PLAYERS)) then\r\n        self.clearButtons()\r\n        payResidual(SEATED_PLAYERS)\r\n        local winners = checkWinner(SEATED_PLAYERS)\r\n        print(\".\\n.\\n.\\n\")\r\n        if #winners == 1 then\r\n            broadcastToAll(winners[1]..\" was the winner!\",winners[1])\r\n        else\r\n            local win = \"\"\r\n            for _,winner in ipairs(winners) do\r\n                win = win..\" \"..winner\r\n            end\r\n            broadcastToAll(\"There is a tie between [ \"..win..\"]!\\nUntie by Lira value, than wine value and than grape value.\", Table)\r\n        end\r\n        END_TIME = os.time()\r\n        local duration = math.floor((END_TIME-START_TIME)/60)\r\n        print(\"The game ended at the end of year \"..CURRENT_YEAR..\"\\nIt has lasted for \"..duration..\" minutes.\")\r\n    else\r\n        if(not winner) then\r\n            broadcastToAll(\"Place all workers before ending the game\",{r=255, g=0, b=0})\r\n        end\r\n    end\r\nend\r\n\r\nfunction passYear()\r\n    if(checkWorkersWerePlaced(SEATED_PLAYERS)) then\r\n        PASSING = true\r\n        CURRENT_YEAR = CURRENT_YEAR+1\r\n        print(\".\\n.\\n.\\n\")\r\n        broadcastToAll(\"Manually age your grape and wine tokens\", {255,0,0})\r\n        passFirstPlayerToken(SEATED_PLAYERS)\r\n        initialPositionCock(SEATED_PLAYERS)\r\n        initialPositionWorkers(SEATED_PLAYERS)\r\n        checkPlayerCards(SEATED_PLAYERS)\r\n        payResidual(SEATED_PLAYERS)\r\n        CURRENT_SEASON = \"Spring\"\r\n        Wait.time(\r\n            function()\r\n                PASSING = false\r\n            end,\r\n            1\r\n        )\r\n        Wait.time(\r\n            function()\r\n                broadcastToAll(\"Starting the year \"..CURRENT_YEAR..\".\\n It is spring, chose your wake up hour!\")\r\n                print(\"...\"..CURRENT_FIRST_PLAYER..\" will be the first player\")\r\n            end,\r\n            5\r\n        )\r\n    else\r\n        if(not winner) then\r\n            broadcastToAll(\"Place all workers before moving to the next year\",{r=255, g=0, b=0})\r\n        end\r\n    end\r\nend\r\n\r\nfunction bottleInResidualAreaNotCenter(bottle)\r\n    if (((bottle.getPosition()[1]-16.9)^2 + (bottle.getPosition()[3]+1)^2)^0.5 > 1.04) and (((bottle.getPosition()[1]-16.9)^2 + (bottle.getPosition()[3]+1)^2)^0.5 < 2.9) then\r\n        return true\r\n    else\r\n        return false\r\n    end\r\nend\r\n\r\nfunction checkDegreeBottle(bottle)\r\n    if (bottle.getPosition()[1] > 17 and bottle.getPosition()[3] > -1) then\r\n        return(math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    elseif(bottle.getPosition()[1] < 17 and bottle.getPosition()[3] > -1) then\r\n        return(180-math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    elseif(bottle.getPosition()[1] < 17 and bottle.getPosition()[3] < -1) then\r\n        return(180+math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    elseif(bottle.getPosition()[1] > 17 and bottle.getPosition()[3] < -1) then\r\n        return(360-math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    else\r\n        return 0\r\n    end\r\nend\r\n\r\nfunction checkResidualPosition(bottle)\r\n    if bottleInResidualAreaNotCenter(bottle) then\r\n        local degree = checkDegreeBottle(bottle)\r\n        if degree >= 90 and degree < 162.6 then\r\n            return 1\r\n        elseif degree < 90 and degree >= 17.4 then\r\n            return 2\r\n        elseif (degree < 17.4 and degree > 0) or (degree <=360 and degree >= 306.9) then\r\n            return 3\r\n        elseif degree >= 233.1 and degree < 306.9 then\r\n            return 4\r\n        else\r\n            return 5\r\n        end\r\n    else\r\n        return 0\r\n    end\r\nend\r\n\r\nfunction payResidual(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        local yellowPayment = checkResidualPosition(yellowBottle)\r\n        if yellowPayment > 0 then\r\n            printToColor(\"You have received \"..yellowPayment..\" Lira from your residual payment\", \"Yellow\")\r\n            dealLira(\"Yellow\",yellowPayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Blue\") then\r\n        local bluePayment = checkResidualPosition(blueBottle)\r\n        if bluePayment > 0 then\r\n            printToColor(\"You have received \"..bluePayment..\" Lira from your residual payment\", \"Blue\")\r\n            dealLira(\"Blue\",bluePayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Green\") then\r\n        local greenPayment = checkResidualPosition(greenBottle)\r\n        if greenPayment > 0 then\r\n            printToColor(\"You have received \"..greenPayment..\" Lira from your residual payment\", \"Green\")\r\n            dealLira(\"Green\",greenPayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Red\") then\r\n        local redPayment = checkResidualPosition(redBottle)\r\n        if redPayment > 0 then\r\n            printToColor(\"You have received \"..redPayment..\" Lira from your residual payment\", \"Red\")\r\n            dealLira(\"Red\",redPayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"White\") then\r\n        local whitePayment = checkResidualPosition(whiteBottle)\r\n        if whitePayment > 0 then\r\n            printToColor(\"You have received \"..whitePayment..\" Lira from your residual payment\", \"White\")\r\n            dealLira(\"White\",whitePayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Orange\") then\r\n        local orangePayment = checkResidualPosition(orangeBottle)\r\n        if orangePayment > 0 then\r\n            printToColor(\"You have received \"..orangePayment..\" Lira from your residual payment\", \"Orange\")\r\n            dealLira(\"Orange\",orangePayment)\r\n        end\r\n    end\r\nend\r\n\r\nfunction dealLira(color,amount)\r\n    if amount == 5 then\r\n        fiveLiraBag.deal(1,color)\r\n    elseif amount == 4 then\r\n        twoLiraBag.deal(2,color)\r\n    elseif amount == 3 then\r\n        twoLiraBag.deal(1,color)\r\n        oneLiraBag.deal(1,color)\r\n    elseif amount == 2 then\r\n        twoLiraBag.deal(1,color)\r\n    elseif amount == 1 then\r\n        oneLiraBag.deal(1,color)\r\n    end\r\nend\r\n\r\nfunction dealMamaPapa(players,count)\r\n    mamaDeck.shuffle()\r\n    papaDeck.shuffle()\r\n    vineDeck.shuffle()\r\n    summerDeck.shuffle()\r\n    orderDeck.shuffle()\r\n    winterDeck.shuffle()\r\n    mamaDeck.deal(count)\r\n    papaDeck.deal(count)\r\nend\r\n\r\nfunction checkPlayerCards(players)\r\n    Wait.time(\r\n    function()\r\n        if isPlaying(players,\"Yellow\") then\r\n            local cardsInHandYellow = 0\r\n            local yellowHand = Player[\"Yellow\"].getHandObjects(1)\r\n            for _,object in ipairs(yellowHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandYellow = cardsInHandYellow+1\r\n                end\r\n            end\r\n            if cardsInHandYellow > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandYellow-7)..\" card(s)!\", \"Yellow\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Blue\") then\r\n            local cardsInHandBlue = 0\r\n            local blueHand = Player[\"Blue\"].getHandObjects(1)\r\n            for _,object in ipairs(blueHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandBlue = cardsInHandBlue+1\r\n                end\r\n            end\r\n            if cardsInHandBlue > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandBlue-7)..\" card(s)!\", \"Blue\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Green\") then\r\n            local cardsInHandGreen = 0\r\n            local greenHand = Player[\"Green\"].getHandObjects(1)\r\n            for _,object in ipairs(greenHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandGreen = cardsInHandGreen+1\r\n                end\r\n            end\r\n            if cardsInHandGreen > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandGreen-7)..\" card(s)!\", \"Green\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Red\") then\r\n            local cardsInHandRed = 0\r\n            local redHand = Player[\"Red\"].getHandObjects(1)\r\n            for _,object in ipairs(redHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandRed = cardsInHandRed+1\r\n                end\r\n            end\r\n            if cardsInHandRed > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandRed-7)..\" card(s)!\", \"Red\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"White\") then\r\n            local cardsInHandWhite = 0\r\n            local whiteHand = Player[\"White\"].getHandObjects(1)\r\n            for _,object in ipairs(whiteHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandWhite = cardsInHandWhite+1\r\n                end\r\n            end\r\n            if cardsInHandWhite > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandWhite-7)..\" card(s)!\", \"White\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Orange\") then\r\n            local cardsInHandOrange = 0\r\n            local orangeHand = Player[\"Orange\"].getHandObjects(1)\r\n            for _,object in ipairs(orangeHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandOrange = cardsInHandOrange+1\r\n                end\r\n            end\r\n            if cardsInHandOrange > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandOrange-7)..\" card(s)!\", \"Orange\",{255,0,0})\r\n            end\r\n        end\r\n    end,\r\n    2.5)\r\nend\r\n\r\nfunction getSortedSeatedPlayers()\r\n    sortedSeatedPlayers = {}\r\n    for _, color in ipairs(ALL_PLAYERS) do\r\n        if Player[color].seated then\r\n            table.insert(sortedSeatedPlayers, color)\r\n        end\r\n    end\r\n    return sortedSeatedPlayers\r\nend\r\n\r\nfunction isPlaying(players,color)\r\n    for _, v in ipairs(players) do\r\n        if v == color then\r\n            return true\r\n        end\r\n    end\r\nend\r\n\r\nfunction setFirstPlayer(players)\r\n    local firstPlayerIndex = random(1,#players)\r\n    return players[firstPlayerIndex]\r\nend\r\n\r\nfunction random(x, y)\r\n    local u = 0 -- don't delete\r\n    u = u + 1\r\n    if x ~= nil and y ~= nil then\r\n        return math.floor(x +(math.random(math.randomseed(os.time()+u))*999999 %y))\r\n    else\r\n        return math.floor((math.random(math.randomseed(os.time()+u))*100))\r\n    end\r\nend\r\n\r\nfunction passFirstPlayerToken(playerList)\r\n    local curPlayerIndex = findIndexByColor(playerList,CURRENT_FIRST_PLAYER)\r\n    if curPlayerIndex < #playerList then\r\n        CURRENT_FIRST_PLAYER = playerList[curPlayerIndex + 1]\r\n    else\r\n        CURRENT_FIRST_PLAYER = playerList[1]\r\n    end\r\n\r\n    moveFirstPlayerToken(CURRENT_FIRST_PLAYER)\r\nend\r\n\r\nfunction findIndexByColor( players, color )\r\n  for k,v in pairs(players) do\r\n    if v==color then return k end\r\n  end\r\n  return nil\r\nend\r\n\r\n\r\nfunction moveFirstPlayerToken(color)\r\n    if(color == \"Yellow\") then\r\n        -- yellow Player\r\n        firstPlayerToken.setPositionSmooth({-31.5,1,16.2}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,0,0}, false, false)\r\n    elseif(color == 'Blue') then\r\n        -- blue Player\r\n        firstPlayerToken.setPositionSmooth({-44.2,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'Green') then\r\n        -- green Player\r\n        firstPlayerToken.setPositionSmooth({-20.5,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'Red') then\r\n        -- red Player\r\n        firstPlayerToken.setPositionSmooth({4.2,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'White') then\r\n        -- white Player\r\n        firstPlayerToken.setPositionSmooth({28.6,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'Orange') then\r\n        -- orange Player\r\n        firstPlayerToken.setPositionSmooth({31.2,1,-6}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,180,0}, false, false)\r\n    end\r\nend\r\n\r\nfunction initialPositionCock(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowCock.setPositionSmooth({-21,1,8.88}, false, false)\r\n        yellowCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        blueCock.setPositionSmooth({-20,1,8.88}, false, false)\r\n        blueCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenCock.setPositionSmooth({-19,1,8.88}, false, false)\r\n        greenCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redCock.setPositionSmooth({-18,1,8.88}, false, false)\r\n        redCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whiteCock.setPositionSmooth({-17,1,8.88}, false, false)\r\n        whiteCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangeCock.setPositionSmooth({-16,1,8.88}, false, false)\r\n        orangeCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\nend\r\n\r\nfunction initialPositionCork(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowCork.setPositionSmooth({-12.5,1,-6.6}, false, false)\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        blueCork.setPositionSmooth({-12.5,1,-4.6}, false, false)\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenCork.setPositionSmooth({-12.5,1,-5.4}, false, false)\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redCork.setPositionSmooth({-12.5,1,-6}, false, false)\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whiteCork.setPositionSmooth({-12.5,1,-3.8}, false, false)\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangeCork.setPositionSmooth({-12.5,1,-3}, false, false)\r\n    end\r\nend\r\n\r\nfunction initialPositionBottle(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowBottle.setPositionSmooth({17.3,1,-0.42}, false, false)\r\n        yellowBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        blueBottle.setPositionSmooth({16.8,1,-0.8}, false, false)\r\n        blueBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenBottle.setPositionSmooth({17.3,1,-0.92}, false, false)\r\n        greenBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redBottle.setPositionSmooth({16.8,1,-1.3}, false, false)\r\n        redBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whiteBottle.setPositionSmooth({17.3,1,-1.42}, false, false)\r\n        whiteBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangeBottle.setPositionSmooth({16.8,1,-1.8}, false, false)\r\n        orangeBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\nend\r\n\r\nfunction initialPositionWorkers(players)\r\n    yellowGrande.setPositionSmooth({-40.15,2,2.2}, false, false)\r\n    yellowGrande.setRotationSmooth({0,0,0}, false, true)\r\n    yellowWorker1.setPositionSmooth({-40.15,2,1.6}, false, false)\r\n    yellowWorker1.setRotationSmooth({0,0,0}, false, true)\r\n    yellowWorker2.setPositionSmooth({-40.15,2,0.9}, false, false)\r\n    yellowWorker2.setRotationSmooth({0,0,0}, false, true)\r\n    if yellowWorker3 ~= nil then\r\n        yellowWorker3.setPositionSmooth({-40.15,2,0.2}, false, false)\r\n        yellowWorker3.setRotationSmooth({0,0,0}, false, true)\r\n    end\r\n    if yellowWorker4 ~= nil then\r\n        yellowWorker4.setPositionSmooth({-40.15,2,-0.5}, false, false)\r\n        yellowWorker4.setRotationSmooth({0,0,0}, false, true)\r\n    end\r\n    if yellowWorker5 ~= nil then\r\n        yellowWorker5.setPositionSmooth({-40.15,2,-1.1}, false, false)\r\n        yellowWorker5.setRotationSmooth({0,0,0}, false, true)\r\n    end\r\n\r\n    blueGrande.setPositionSmooth({-31.2,2,-22.15}, false, false)\r\n    blueGrande.setRotationSmooth({0,90,0}, false, true)\r\n    blueWorker1.setPositionSmooth({-30.6,2,-22.15}, false, false)\r\n    blueWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    blueWorker2.setPositionSmooth({-29.9,2,-22.15}, false, false)\r\n    blueWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if blueWorker3 ~= nil then\r\n        blueWorker3.setPositionSmooth({-29.2,2,-22.15}, false, false)\r\n        blueWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if blueWorker4 ~= nil then\r\n        blueWorker4.setPositionSmooth({-28.5,2,-22.15}, false, false)\r\n        blueWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if blueWorker5 ~= nil then\r\n        blueWorker5.setPositionSmooth({-27.8,2,-22.15}, false, false)\r\n        blueWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    greenGrande.setPositionSmooth({-7,2,-22.15}, false, false)\r\n    greenGrande.setRotationSmooth({0,90,0}, false, true)\r\n    greenWorker1.setPositionSmooth({-6.4,2,-22.15}, false, false)\r\n    greenWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    greenWorker2.setPositionSmooth({-5.7,2,-22.15}, false, false)\r\n    greenWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if greenWorker3 ~= nil then\r\n        greenWorker3.setPositionSmooth({-5,2,-22.15}, false, false)\r\n        greenWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if greenWorker4 ~= nil then\r\n        greenWorker4.setPositionSmooth({-4.3,2,-22.15}, false, false)\r\n        greenWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if greenWorker5 ~= nil then\r\n        greenWorker5.setPositionSmooth({-3.6,2,-22.15}, false, false)\r\n        greenWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    redGrande.setPositionSmooth({17.4,2,-22.3}, false, false)\r\n    redGrande.setRotationSmooth({0,90,0}, false, true)\r\n    redWorker1.setPositionSmooth({18,2,-22.3}, false, false)\r\n    redWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    redWorker2.setPositionSmooth({18.7,2,-22.3}, false, false)\r\n    redWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if redWorker3 ~= nil then\r\n        redWorker3.setPositionSmooth({19.4,2,-22.3}, false, false)\r\n        redWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if redWorker4 ~= nil then\r\n        redWorker4.setPositionSmooth({20.1,2,-22.3}, false, false)\r\n        redWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if redWorker5 ~= nil then\r\n        redWorker5.setPositionSmooth({20.8,2,-22.3}, false, false)\r\n        redWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    whiteGrande.setPositionSmooth({41.6,2,-22.3}, false, false)\r\n    whiteGrande.setRotationSmooth({0,90,0}, false, true)\r\n    whiteWorker1.setPositionSmooth({42.2,2,-22.3}, false, false)\r\n    whiteWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    whiteWorker2.setPositionSmooth({42.9,2,-22.3}, false, false)\r\n    whiteWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if whiteWorker3 ~= nil then\r\n        whiteWorker3.setPositionSmooth({43.6,2,-22.3}, false, false)\r\n        whiteWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if whiteWorker4 ~= nil then\r\n        whiteWorker4.setPositionSmooth({44.3,2,-22.3}, false, false)\r\n        whiteWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if whiteWorker5 ~= nil then\r\n        whiteWorker5.setPositionSmooth({45,2,-22.3}, false, false)\r\n        whiteWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    orangeGrande.setPositionSmooth({39.6,2,7.3}, false, false)\r\n    orangeGrande.setRotationSmooth({0,180,0}, false, true)\r\n    orangeWorker1.setPositionSmooth({39.6,2,7.9}, false, false)\r\n    orangeWorker1.setRotationSmooth({0,180,0}, false, true)\r\n    orangeWorker2.setPositionSmooth({39.6,2,8.6}, false, false)\r\n    orangeWorker2.setRotationSmooth({0,180,0}, false, true)\r\n    if orangeWorker3 ~= nil then\r\n        orangeWorker3.setPositionSmooth({39.6,2,9.3}, false, false)\r\n        orangeWorker3.setRotationSmooth({0,180,0}, false, true)\r\n    end\r\n    if orangeWorker4 ~= nil then\r\n        orangeWorker4.setPositionSmooth({39.6,2,10}, false, false)\r\n        orangeWorker4.setRotationSmooth({0,180,0}, false, true)\r\n    end\r\n    if orangeWorker5 ~= nil then\r\n        orangeWorker5.setPositionSmooth({39.6,2,10.7}, false, false)\r\n        orangeWorker5.setRotationSmooth({0,180,0}, false, true)\r\n    end\r\n    freeWorker.setPositionSmooth({-18.1,2,-1.9}, false, false)\r\n    freeWorker.setRotationSmooth({0,0,0}, false, true)\r\nend\r\n\r\nfunction checkWinner(players)\r\n    local winners = {}\r\n    local maxPoints = 0\r\n    local yellowPoint = 0\r\n    local bluePoint = 0\r\n    local greenPoint = 0\r\n    local redPoint = 0\r\n    local whitePoint = 0\r\n    local orangePoint = 0\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowPoint = checkPoints(yellowCork.getPosition()[1])\r\n        if yellowPoint > maxPoints then\r\n            maxPoints = yellowPoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        bluePoint = checkPoints(blueCork.getPosition()[1])\r\n        if bluePoint > maxPoints then\r\n            maxPoints = bluePoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenPoint = checkPoints(greenCork.getPosition()[1])\r\n        if greenPoint > maxPoints then\r\n            maxPoints = greenPoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redPoint = checkPoints(redCork.getPosition()[1])\r\n        if redPoint > maxPoints then\r\n            maxPoints = redPoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whitePoint = checkPoints(whiteCork.getPosition()[1])\r\n        if whitePoint > maxPoints then\r\n            maxPoints = whitePoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangePoint = checkPoints(orangeCork.getPosition()[1])\r\n        if orangePoint > maxPoints then\r\n            maxPoints = orangePoint\r\n        end\r\n    end\r\n\r\n    if yellowPoint >= 20 then\r\n        table.insert(winners,\"Yellow\")\r\n    end\r\n    if bluePoint >= 20 then\r\n        table.insert(winners,\"Blue\")\r\n    end\r\n    if greenPoint >= 20 then\r\n        table.insert(winners,\"Green\")\r\n    end\r\n    if redPoint >= 20 then\r\n        table.insert(winners,\"Red\")\r\n    end\r\n    if whitePoint >= 20 then\r\n        table.insert(winners,\"White\")\r\n    end\r\n    if orangePoint >= 20 then\r\n        table.insert(winners,\"Orange\")\r\n    end\r\n    return winners\r\nend\r\n\r\nfunction checkEndGame(players)\r\n    local yellowPoint = 0\r\n    local bluePoint = 0\r\n    local greenPoint = 0\r\n    local redPoint = 0\r\n    local whitePoint = 0\r\n    local orangePoint = 0\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowPoint = checkPoints(yellowCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        bluePoint = checkPoints(blueCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenPoint = checkPoints(greenCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redPoint = checkPoints(redCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whitePoint = checkPoints(whiteCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangePoint = checkPoints(orangeCork.getPosition()[1])\r\n    end\r\n\r\n    if yellowPoint >= 20 or bluePoint >= 20 or greenPoint >= 20 or redPoint >= 20 or whitePoint >= 20 or orangePoint >= 20 then\r\n            return true\r\n    else\r\n        return false\r\n    end\r\nend\r\n\r\nfunction checkPoints(corkXPosition)\r\n    if (corkXPosition > 11.15 and corkXPosition < 18.7) then\r\n        if corkXPosition < 12.35 then\r\n            return 20\r\n        elseif corkXPosition < 13.55 then\r\n            return 21\r\n        elseif corkXPosition < 14.75 then\r\n            return 22\r\n        elseif corkXPosition < 15.95 then\r\n            return 23\r\n        elseif corkXPosition < 17.15 then\r\n            return 24\r\n        else\r\n            return 25\r\n        end\r\n    else\r\n        return -1\r\n    end\r\nend\r\n\r\nfunction checkWorkersWerePlaced(players)\r\n    if(\r\n    (not isPlaying(players,\"Yellow\") or\r\n    (isPlaying(players,\"Yellow\") and\r\n    not(yellowGrande.getPosition()[1] > -40.8 and yellowGrande.getPosition()[1] < -40.8+1.3 and yellowGrande.getPosition()[3] > 2.5-4 and yellowGrande.getPosition()[3] < 2.5) and\r\n    not(yellowWorker1.getPosition()[1] > -40.8 and yellowWorker1.getPosition()[1] < -40.8+1.3 and yellowWorker1.getPosition()[3] > 2.5-4 and yellowWorker1.getPosition()[3] < 2.5) and\r\n    not(yellowWorker2.getPosition()[1] > -40.8 and yellowWorker2.getPosition()[1] < -40.8+1.3 and yellowWorker2.getPosition()[3] > 2.5-4 and yellowWorker2.getPosition()[3] < 2.5) and\r\n    not(yellowWorker3 ~= nil and (yellowWorker3.getPosition()[1] > -40.8 and yellowWorker3.getPosition()[1] < -40.8+1.3 and yellowWorker3.getPosition()[3] > 2.5-4 and yellowWorker3.getPosition()[3] < 2.5)) and\r\n    not(yellowWorker4 ~= nil and (yellowWorker4.getPosition()[1] > -40.8 and yellowWorker4.getPosition()[1] < -40.8+1.3 and yellowWorker4.getPosition()[3] > 2.5-4 and yellowWorker4.getPosition()[3] < 2.5)) and\r\n    not(yellowWorker5 ~= nil and (yellowWorker5.getPosition()[1] > -40.8 and yellowWorker5.getPosition()[1] < -40.8+1.3 and yellowWorker5.getPosition()[3] > 2.5-4 and yellowWorker5.getPosition()[3] < 2.5)))) and\r\n\r\n    (not isPlaying(players,\"Blue\") or\r\n    (isPlaying(players,\"Blue\") and\r\n    not(blueGrande.getPosition()[1] > -31.5 and blueGrande.getPosition()[1] < -31.5+4 and blueGrande.getPosition()[3] > -22.7 and blueGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(blueWorker1.getPosition()[1] > -31.5 and blueWorker1.getPosition()[1] < -31.5+4 and blueWorker1.getPosition()[3] > -22.7 and blueWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(blueWorker2.getPosition()[1] > -31.5 and blueWorker2.getPosition()[1] < -31.5+4 and blueWorker2.getPosition()[3] > -22.7 and blueWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(blueWorker3 ~= nil and (blueWorker3.getPosition()[1] > -31.5 and blueWorker3.getPosition()[1] < -31.5+4 and blueWorker3.getPosition()[3] > -22.7 and blueWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(blueWorker4 ~= nil and (blueWorker4.getPosition()[1] > -31.5 and blueWorker4.getPosition()[1] < -31.5+4 and blueWorker4.getPosition()[3] > -22.7 and blueWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(blueWorker5 ~= nil and (blueWorker5.getPosition()[1] > -31.5 and blueWorker5.getPosition()[1] < -31.5+4 and blueWorker5.getPosition()[3] > -22.7 and blueWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"Green\") or\r\n    (isPlaying(players,\"Green\") and\r\n    not(greenGrande.getPosition()[1] > -7.3 and greenGrande.getPosition()[1] < -7.3+4 and greenGrande.getPosition()[3] > -22.7 and greenGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(greenWorker1.getPosition()[1] > -7.3 and greenWorker1.getPosition()[1] < -7.3+4 and greenWorker1.getPosition()[3] > -22.7 and greenWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(greenWorker2.getPosition()[1] > -7.3 and greenWorker2.getPosition()[1] < -7.3+4 and greenWorker2.getPosition()[3] > -22.7 and greenWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(greenWorker3 ~= nil and (greenWorker3.getPosition()[1] > -7.3 and greenWorker3.getPosition()[1] < -7.3+4 and greenWorker3.getPosition()[3] > -22.7 and greenWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(greenWorker4 ~= nil and (greenWorker4.getPosition()[1] > -7.3 and greenWorker4.getPosition()[1] < -7.3+4 and greenWorker4.getPosition()[3] > -22.7 and greenWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(greenWorker5 ~= nil and (greenWorker5.getPosition()[1] > -7.3 and greenWorker5.getPosition()[1] < -7.3+4 and greenWorker5.getPosition()[3] > -22.7 and greenWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"Red\") or\r\n    (isPlaying(players,\"Red\") and\r\n    not(redGrande.getPosition()[1] > 17.03 and redGrande.getPosition()[1] < 17.03+4 and redGrande.getPosition()[3] > -22.7 and redGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(redWorker1.getPosition()[1] > 17.03 and redWorker1.getPosition()[1] < 17.03+4 and redWorker1.getPosition()[3] > -22.7 and redWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(redWorker2.getPosition()[1] > 17.03 and redWorker2.getPosition()[1] < 17.03+4 and redWorker2.getPosition()[3] > -22.7 and redWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(redWorker3 ~= nil and (redWorker3.getPosition()[1] > 17.03 and redWorker3.getPosition()[1] < 17.03+4 and redWorker3.getPosition()[3] > -22.7 and redWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(redWorker4 ~= nil and (redWorker4.getPosition()[1] > 17.03 and redWorker4.getPosition()[1] < 17.03+4 and redWorker4.getPosition()[3] > -22.7 and redWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(redWorker5 ~= nil and (redWorker5.getPosition()[1] > 17.03 and redWorker5.getPosition()[1] < 17.03+4 and redWorker5.getPosition()[3] > -22.7 and redWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"White\") or\r\n    (isPlaying(players,\"White\") and\r\n    not(whiteGrande.getPosition()[1] > 41.2 and whiteGrande.getPosition()[1] < 41.2+4 and whiteGrande.getPosition()[3] > -22.7 and whiteGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(whiteWorker1.getPosition()[1] > 41.2 and whiteWorker1.getPosition()[1] < 41.2+4 and whiteWorker1.getPosition()[3] > -22.7 and whiteWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(whiteWorker2.getPosition()[1] > 41.2 and whiteWorker2.getPosition()[1] < 41.2+4 and whiteWorker2.getPosition()[3] > -22.7 and whiteWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(whiteWorker3 ~= nil and (whiteWorker3.getPosition()[1] > 41.2 and whiteWorker3.getPosition()[1] < 41.2+4 and whiteWorker3.getPosition()[3] > -22.7 and whiteWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(whiteWorker4 ~= nil and (whiteWorker4.getPosition()[1] > 41.2 and whiteWorker4.getPosition()[1] < 41.2+4 and whiteWorker4.getPosition()[3] > -22.7 and whiteWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(whiteWorker5 ~= nil and (whiteWorker5.getPosition()[1] > 41.2 and whiteWorker5.getPosition()[1] < 41.2+4 and whiteWorker5.getPosition()[3] > -22.7 and whiteWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"Orange\") or\r\n    (isPlaying(players,\"Orange\") and\r\n    not(orangeGrande.getPosition()[1] > 39 and orangeGrande.getPosition()[1] < 39+1.3 and orangeGrande.getPosition()[3] > 11-4 and orangeGrande.getPosition()[3] < 11) and\r\n    not(orangeWorker1.getPosition()[1] > 39 and orangeWorker1.getPosition()[1] < 39+1.3 and orangeWorker1.getPosition()[3] > 11-4 and orangeWorker1.getPosition()[3] < 11) and\r\n    not(orangeWorker2.getPosition()[1] > 39 and orangeWorker2.getPosition()[1] < 39+1.3 and orangeWorker2.getPosition()[3] > 11-4 and orangeWorker2.getPosition()[3] < 11) and\r\n    not(orangeWorker3 ~= nil and (orangeWorker3.getPosition()[1] > 39 and orangeWorker3.getPosition()[1] < 39+1.3 and orangeWorker3.getPosition()[3] > 11-4 and orangeWorker3.getPosition()[3] < 11)) and\r\n    not(orangeWorker4 ~= nil and (orangeWorker4.getPosition()[1] > 39 and orangeWorker4.getPosition()[1] < 39+1.3 and orangeWorker4.getPosition()[3] > 11-4 and orangeWorker4.getPosition()[3] < 11)) and\r\n    not(orangeWorker5 ~= nil and (orangeWorker5.getPosition()[1] > 39 and orangeWorker5.getPosition()[1] < 39+1.3 and orangeWorker5.getPosition()[3] > 11-4 and orangeWorker5.getPosition()[3] < 11))))\r\n\r\n    ) then\r\n        return true\r\n    else\r\n        return false\r\n    end\r\nend",
-      "LuaScriptState": ""
+      "LuaScript": "year_button_parameters = {}\r\nyear_button_parameters.click_function = 'passYear'\r\nyear_button_parameters.function_owner = self\r\nyear_button_parameters.label = 'Pass Year'\r\nyear_button_parameters.tooltip = 'Pass Year'\r\nyear_button_parameters.position = {-2.08,0.08,-0.8}\r\nyear_button_parameters.rotation = {0,0,0}\r\nyear_button_parameters.width = 900\r\nyear_button_parameters.height = 600\r\nyear_button_parameters.font_size = 190\r\nyear_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\nstart_button_parameters = {}\r\nstart_button_parameters.click_function = 'startTheGame'\r\nstart_button_parameters.function_owner = self\r\nstart_button_parameters.label = 'Start'\r\nstart_button_parameters.tooltip = 'Start'\r\nstart_button_parameters.position = {-2.08,0.08,-0.8}\r\nstart_button_parameters.rotation = {0,0,0}\r\nstart_button_parameters.width = 900\r\nstart_button_parameters.height = 600\r\nstart_button_parameters.font_size = 190\r\nstart_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\nend_button_parameters = {}\r\nend_button_parameters.click_function = 'endTheGame'\r\nend_button_parameters.function_owner = self\r\nend_button_parameters.label = 'End game'\r\nend_button_parameters.tooltip = 'End game'\r\nend_button_parameters.position = {-2.08,0.08,-0.8}\r\nend_button_parameters.rotation = {0,0,0}\r\nend_button_parameters.width = 900\r\nend_button_parameters.height = 600\r\nend_button_parameters.font_size = 190\r\nend_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\none_mama_button_parameters = {}\r\none_mama_button_parameters.click_function = 'dealOneMama'\r\none_mama_button_parameters.function_owner = self\r\none_mama_button_parameters.label = 'Deal 1\\nMama/Papa'\r\none_mama_button_parameters.tooltip = 'Deal 1\\nMama/Papa'\r\none_mama_button_parameters.position = {-2.08,0.3,-1.45}\r\none_mama_button_parameters.rotation = {0,0,0}\r\none_mama_button_parameters.width = 900\r\none_mama_button_parameters.height = 600\r\none_mama_button_parameters.font_size = 160\r\none_mama_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\ntwo_mama_button_parameters = {}\r\ntwo_mama_button_parameters.click_function = 'dealTwoMama'\r\ntwo_mama_button_parameters.function_owner = self\r\ntwo_mama_button_parameters.label = 'Deal 2\\nMama/Papa'\r\ntwo_mama_button_parameters.tooltip = 'Deal 2\\nMama/Papa'\r\ntwo_mama_button_parameters.position = {-2.08,0.3,-0.1}\r\ntwo_mama_button_parameters.rotation = {0,0,0}\r\ntwo_mama_button_parameters.width = 900\r\ntwo_mama_button_parameters.height = 600\r\ntwo_mama_button_parameters.font_size = 160\r\ntwo_mama_button_parameters.color = {0.7961,0.6667,0.3098}\r\n\r\nself.createButton(one_mama_button_parameters)\r\nself.createButton(two_mama_button_parameters)\r\n\r\nALL_PLAYERS = {\"Yellow\",\"Blue\",\"Green\",\"Red\",\"White\",\"Orange\"}\r\nCURRENT_YEAR = 1\r\nCURRENT_SEASON = \"Spring\"\r\nSEATED_PLAYERS = nil\r\nPASSING = false\r\nGAME_STARTED = false\r\nGAME_ENDING = false\r\nSTART_TIME = 0\r\nEND_TIME = 0\r\n\r\nyellow_player_hand_count_on_fall = 0\r\nblue_player_hand_count_on_fall = 0\r\ngreen_player_hand_count_on_fall = 0\r\nred_player_hand_count_on_fall = 0\r\nwhite_player_hand_count_on_fall = 0\r\norange_player_hand_count_on_fall = 0\r\nyellow_player_hand_count_on_fall_after = 0\r\nblue_player_hand_count_on_fall_after = 0\r\ngreen_player_hand_count_on_fall_after = 0\r\nred_player_hand_count_on_fall_after = 0\r\nwhite_player_hand_count_on_fall_after = 0\r\norange_player_hand_count_on_fall_after = 0\r\n\r\nfirstPlayerToken = getObjectFromGUID(\"cc5d43\")\r\nfreeWorker = getObjectFromGUID(\"663235\")\r\n\r\npapaDeck = getObjectFromGUID(\"1f6e2b\")\r\nmamaDeck = getObjectFromGUID(\"513562\")\r\nvineDeck = getObjectFromGUID(\"14512d\")\r\nsummerDeck = getObjectFromGUID(\"b81cb8\")\r\norderDeck = getObjectFromGUID(\"e94dd3\")\r\nwinterDeck = getObjectFromGUID(\"4a50fd\")\r\n\r\nfiveLiraBag = getObjectFromGUID(\"59d3af\")\r\ntwoLiraBag = getObjectFromGUID(\"ee6b2c\")\r\noneLiraBag = getObjectFromGUID(\"4122be\")\r\n\r\n--- Yellow Player Objects\r\nyellowWorkerBag1 = getObjectFromGUID(\"848b48\")\r\nyellowGrande = getObjectFromGUID(\"48cff0\")\r\nyellowWorker1 = getObjectFromGUID(\"bb3f3e\")\r\nyellowWorker2 = getObjectFromGUID(\"fffe14\")\r\nyellowCork = getObjectFromGUID(\"4325c0\")\r\nyellowBottle = getObjectFromGUID(\"954bc5\")\r\nyellowCock = getObjectFromGUID(\"8d8472\")\r\n\r\n--- Blue Player Objects\r\nblueWorkerBag1 = getObjectFromGUID(\"df5018\")\r\nblueGrande = getObjectFromGUID(\"6c18b6\")\r\nblueWorker1 = getObjectFromGUID(\"13b4d8\")\r\nblueWorker2 = getObjectFromGUID(\"36d4c4\")\r\nblueCork = getObjectFromGUID(\"96ff9b\")\r\nblueBottle = getObjectFromGUID(\"860d0c\")\r\nblueCock = getObjectFromGUID(\"3562d1\")\r\n\r\n--- Green Player Objects\r\ngreenWorkerBag1 = getObjectFromGUID(\"6b4d6d\")\r\ngreenGrande = getObjectFromGUID(\"eba375\")\r\ngreenWorker1 = getObjectFromGUID(\"9328e9\")\r\ngreenWorker2 = getObjectFromGUID(\"de65ea\")\r\ngreenCork = getObjectFromGUID(\"cc728c\")\r\ngreenBottle = getObjectFromGUID(\"2647fb\")\r\ngreenCock = getObjectFromGUID(\"62624d\")\r\n\r\n--- Red Player Objects\r\nredWorkerBag1 = getObjectFromGUID(\"6b4d6d\")\r\nredGrande = getObjectFromGUID(\"81747e\")\r\nredWorker1 = getObjectFromGUID(\"6cf228\")\r\nredWorker2 = getObjectFromGUID(\"39087e\")\r\nredCork = getObjectFromGUID(\"a885e1\")\r\nredBottle = getObjectFromGUID(\"4c6f33\")\r\nredCock = getObjectFromGUID(\"7a6e85\")\r\n\r\n--- White Player Objects\r\nwhiteWorkerBag1 = getObjectFromGUID(\"063ca2\")\r\nwhiteGrande = getObjectFromGUID(\"6ae8d7\")\r\nwhiteWorker1 = getObjectFromGUID(\"e30af3\")\r\nwhiteWorker2 = getObjectFromGUID(\"60c9d3\")\r\nwhiteCork = getObjectFromGUID(\"601a4a\")\r\nwhiteBottle = getObjectFromGUID(\"88cf7d\")\r\nwhiteCock = getObjectFromGUID(\"183f84\")\r\n\r\n--- Orange Player Objects\r\norangeWorkerBag1 = getObjectFromGUID(\"1ac03d\")\r\norangeGrande = getObjectFromGUID(\"66d4c1\")\r\norangeWorker1 = getObjectFromGUID(\"9cbdd2\")\r\norangeWorker2 = getObjectFromGUID(\"3a2161\")\r\norangeCork = getObjectFromGUID(\"84f12e\")\r\norangeBottle = getObjectFromGUID(\"ed72ab\")\r\norangeCock = getObjectFromGUID(\"9fa940\")\r\n\r\n\r\nfunction onUpdate()\r\n    SEATED_PLAYERS = getSortedSeatedPlayers()\r\n\r\n    --- Yellow Player Objects\r\n    yellowWorker3 = getObjectFromGUID(\"313628\")\r\n    yellowWorker4 = getObjectFromGUID(\"0375f2\")\r\n    yellowWorker5 = getObjectFromGUID(\"b05428\")\r\n\r\n    --- Blue Player Objects\r\n    blueWorker3 = getObjectFromGUID(\"a805d6\")\r\n    blueWorker4 = getObjectFromGUID(\"582631\")\r\n    blueWorker5 = getObjectFromGUID(\"dd659e\")\r\n\r\n    --- Green Player Objects\r\n    greenWorker3 = getObjectFromGUID(\"898c56\")\r\n    greenWorker4 = getObjectFromGUID(\"a891f3\")\r\n    greenWorker5 = getObjectFromGUID(\"5897c0\")\r\n\r\n    --- Red Player Objects\r\n    redWorker3 = getObjectFromGUID(\"daa81f\")\r\n    redWorker4 = getObjectFromGUID(\"593b6e\")\r\n    redWorker5 = getObjectFromGUID(\"91f5bf\")\r\n\r\n    --- White Player Objects\r\n    whiteWorker3 = getObjectFromGUID(\"54f41a\")\r\n    whiteWorker4 = getObjectFromGUID(\"2ddbdd\")\r\n    whiteWorker5 = getObjectFromGUID(\"b0073f\")\r\n\r\n    --- Orange Player Objects\r\n    orangeWorker3 = getObjectFromGUID(\"d2312b\")\r\n    orangeWorker4 = getObjectFromGUID(\"20bdef\")\r\n    orangeWorker5 = getObjectFromGUID(\"272d0e\")\r\n\r\n    if checkEndGame(SEATED_PLAYERS) and GAME_ENDING == false and GAME_STARTED == true then\r\n        GAME_ENDING = true\r\n        self.clearButtons()\r\n        self.createButton(end_button_parameters)\r\n    end\r\n\r\n    if not checkEndGame(SEATED_PLAYERS) and GAME_ENDING == true and GAME_STARTED == true then\r\n        GAME_ENDING = false\r\n        self.clearButtons()\r\n        self.createButton(year_button_parameters)\r\n    end\r\nend\r\n\r\nWait.time(\r\n    function()\r\n        if CURRENT_SEASON == \"Spring\" and PASSING == false then\r\n            if (\r\n            (isPlaying(SEATED_PLAYERS,\"Yellow\") and checkCockSide(yellowCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Blue\") and checkCockSide(blueCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Green\") and checkCockSide(greenCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Red\") and checkCockSide(redCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"White\") and checkCockSide(whiteCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Orange\") and checkCockSide(orangeCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n            ) then\r\n                broadcastToAll(\"All players chosen their wake up time.\\nIt is Summer, place your workers!\")\r\n                CURRENT_SEASON = \"Summer\"\r\n            end\r\n        end\r\n        if CURRENT_SEASON == \"Summer\" and PASSING == false then\r\n            if (\r\n            (isPlaying(SEATED_PLAYERS,\"Yellow\") and checkCockSide(yellowCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Blue\") and checkCockSide(blueCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Green\") and checkCockSide(greenCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Red\") and checkCockSide(redCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"White\") and checkCockSide(whiteCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Orange\") and checkCockSide(orangeCock) == \"Right\" or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n            ) then\r\n                broadcastToAll(\"All players have passed.\\nIt is Fall, draw your visitor cards!\")\r\n                CURRENT_SEASON = \"Fall\"\r\n                if isPlaying(SEATED_PLAYERS,\"Yellow\") then\r\n                    yellow_player_hand_count_on_fall = #(Player[\"Yellow\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Blue\") then\r\n                    blue_player_hand_count_on_fall = #(Player[\"Blue\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Green\") then\r\n                    green_player_hand_count_on_fall = #(Player[\"Green\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Red\") then\r\n                    red_player_hand_count_on_fall = #(Player[\"Red\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"White\") then\r\n                    white_player_hand_count_on_fall = #(Player[\"White\"].getHandObjects())\r\n                end\r\n                if isPlaying(SEATED_PLAYERS,\"Orange\") then\r\n                    orange_player_hand_count_on_fall = #(Player[\"Orange\"].getHandObjects())\r\n                end\r\n            end\r\n        end\r\n\r\n        if CURRENT_SEASON == \"Fall\" then\r\n            if isPlaying(SEATED_PLAYERS,\"Yellow\") then\r\n                yellow_player_hand_count_on_fall_after = #(Player[\"Yellow\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Blue\") then\r\n                blue_player_hand_count_on_fall_after = #(Player[\"Blue\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Green\") then\r\n                green_player_hand_count_on_fall_after = #(Player[\"Green\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Red\") then\r\n                red_player_hand_count_on_fall_after = #(Player[\"Red\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"White\") then\r\n                white_player_hand_count_on_fall_after = #(Player[\"White\"].getHandObjects())\r\n            end\r\n            if isPlaying(SEATED_PLAYERS,\"Orange\") then\r\n                orange_player_hand_count_on_fall_after = #(Player[\"Orange\"].getHandObjects())\r\n            end\r\n            if(\r\n                (isPlaying(SEATED_PLAYERS,\"Yellow\") and (yellow_player_hand_count_on_fall_after > yellow_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Blue\") and (blue_player_hand_count_on_fall_after > blue_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Green\") and (green_player_hand_count_on_fall_after > green_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Red\") and (red_player_hand_count_on_fall_after > red_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"White\") and (white_player_hand_count_on_fall_after > white_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n                (isPlaying(SEATED_PLAYERS,\"Orange\") and (orange_player_hand_count_on_fall_after > orange_player_hand_count_on_fall) or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n\r\n            ) then\r\n                broadcastToAll(\"All players have drawn their visitor cards.\\nIt is Winter, place your workers!\")\r\n                CURRENT_SEASON = \"Winter\"\r\n            end\r\n        end\r\n\r\n        if CURRENT_SEASON == \"Winter\" and PASSING == false then\r\n            if (\r\n            (isPlaying(SEATED_PLAYERS,\"Yellow\") and checkCockSide(yellowCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Yellow\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Blue\") and checkCockSide(blueCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Blue\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Green\") and checkCockSide(greenCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Green\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Red\") and checkCockSide(redCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Red\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"White\") and checkCockSide(whiteCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"White\")) and\r\n            (isPlaying(SEATED_PLAYERS,\"Orange\") and checkCockSide(orangeCock) == \"Left\" or not isPlaying(SEATED_PLAYERS,\"Orange\"))\r\n            ) then\r\n                broadcastToAll(\"All players have passed.\\nThe year has ended, click on the Pass Year button!\")\r\n                CURRENT_SEASON = nil\r\n            end\r\n        end\r\n    end,\r\n    2,\r\n    -1\r\n)\r\n\r\nfunction checkCockSide(cock)\r\n    if (cock.getPosition()[1] > -21 and cock.getPosition()[1] < -16 and cock.getPosition()[3] > -3 and cock.getPosition()[3] < 7.5 and cock.getPosition()[2] > 0.9 and cock.getPosition()[2] < 1) then\r\n        -- Cock is inside the track\r\n        if cock.getPosition()[1] < -19 then\r\n            return \"Left\"\r\n        else\r\n            return \"Right\"\r\n        end\r\n    else\r\n        return nil\r\n    end\r\nend\r\n\r\nfunction dealOneMama()\r\n    self.clearButtons()\r\n    self.createButton(start_button_parameters)\r\n    broadcastToAll(\"Receive the resources from your Mama and Papa cards\", {0,255,0})\r\n    dealMamaPapa(SEATED_PLAYERS,1)\r\nend\r\n\r\nfunction dealTwoMama()\r\n    self.clearButtons()\r\n    self.createButton(start_button_parameters)\r\n    broadcastToAll(\"Chose one of each Mama and Papa card and receive the resources from them\", {0,255,0})\r\n    dealMamaPapa(SEATED_PLAYERS,2)\r\nend\r\n\r\nfunction startTheGame()\r\n    GAME_STARTED = true\r\n    START_TIME = os.time()\r\n    print(\".\\n.\\n.\\n\")\r\n    CURRENT_SEASON = \"Spring\"\r\n    CURRENT_FIRST_PLAYER = setFirstPlayer(SEATED_PLAYERS)\r\n    moveFirstPlayerToken(CURRENT_FIRST_PLAYER)\r\n    initialPositionCock(SEATED_PLAYERS)\r\n    initialPositionWorkers(SEATED_PLAYERS)\r\n    initialPositionCork(SEATED_PLAYERS)\r\n    initialPositionBottle(SEATED_PLAYERS)\r\n    self.clearButtons()\r\n    self.createButton(year_button_parameters)\r\n    Wait.time(\r\n        function()\r\n            broadcastToAll(\"Starting the year \"..CURRENT_YEAR..\"\\n It is spring, chose your wake up hour!\")\r\n            print(\"...\"..CURRENT_FIRST_PLAYER..\" will be the first player\")\r\n        end,\r\n        2.5\r\n    )\r\nend\r\n\r\nfunction endTheGame()\r\n    if(checkWorkersWerePlaced(SEATED_PLAYERS)) then\r\n        self.clearButtons()\r\n        payResidual(SEATED_PLAYERS)\r\n        local winners = checkWinner(SEATED_PLAYERS)\r\n        print(\".\\n.\\n.\\n\")\r\n        if #winners == 1 then\r\n            broadcastToAll(winners[1]..\" was the winner!\",winners[1])\r\n        else\r\n            local win = \"\"\r\n            for _,winner in ipairs(winners) do\r\n                win = win..\" \"..winner\r\n            end\r\n            broadcastToAll(\"There is a tie between [\"..win..\" ]!\\nUntie by Lira Value, then Wine Value and then Grape Value.\", Table)\r\n        end\r\n        END_TIME = os.time()\r\n        local duration = math.floor((END_TIME-START_TIME)/60)\r\n        print(\"The game ended at the end of year \"..CURRENT_YEAR..\"\\nIt has lasted for \"..duration..\" minutes.\")\r\n    else\r\n        if(not winner) then\r\n            broadcastToAll(\"Place all workers before ending the game\",{r=255, g=0, b=0})\r\n        end\r\n    end\r\nend\r\n\r\nfunction passYear()\r\n    if(checkWorkersWerePlaced(SEATED_PLAYERS)) then\r\n        PASSING = true\r\n        CURRENT_YEAR = CURRENT_YEAR+1\r\n        print(\".\\n.\\n.\\n\")\r\n        broadcastToAll(\"Manually age your grape and wine tokens\", {255,0,0})\r\n        passFirstPlayerToken(SEATED_PLAYERS)\r\n        initialPositionCock(SEATED_PLAYERS)\r\n        initialPositionWorkers(SEATED_PLAYERS)\r\n        checkPlayerCards(SEATED_PLAYERS)\r\n        payResidual(SEATED_PLAYERS)\r\n        CURRENT_SEASON = \"Spring\"\r\n        Wait.time(\r\n            function()\r\n                PASSING = false\r\n            end,\r\n            1\r\n        )\r\n        Wait.time(\r\n            function()\r\n                broadcastToAll(\"Starting the year \"..CURRENT_YEAR..\".\\n It is spring, chose your wake up hour!\")\r\n                print(\"...\"..CURRENT_FIRST_PLAYER..\" will be the first player\")\r\n            end,\r\n            5\r\n        )\r\n    else\r\n        if(not winner) then\r\n            broadcastToAll(\"Place all workers before moving to the next year\",{r=255, g=0, b=0})\r\n        end\r\n    end\r\nend\r\n\r\nfunction bottleInResidualAreaNotCenter(bottle)\r\n    if (((bottle.getPosition()[1]-16.9)^2 + (bottle.getPosition()[3]+1)^2)^0.5 > 1.04) and (((bottle.getPosition()[1]-16.9)^2 + (bottle.getPosition()[3]+1)^2)^0.5 < 2.9) then\r\n        return true\r\n    else\r\n        return false\r\n    end\r\nend\r\n\r\nfunction checkDegreeBottle(bottle)\r\n    if (bottle.getPosition()[1] > 17 and bottle.getPosition()[3] > -1) then\r\n        return(math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    elseif(bottle.getPosition()[1] < 17 and bottle.getPosition()[3] > -1) then\r\n        return(180-math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    elseif(bottle.getPosition()[1] < 17 and bottle.getPosition()[3] < -1) then\r\n        return(180+math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    elseif(bottle.getPosition()[1] > 17 and bottle.getPosition()[3] < -1) then\r\n        return(360-math.deg(math.atan(math.abs((bottle.getPosition()[3]+1)/(bottle.getPosition()[1]-17)))))\r\n    else\r\n        return 0\r\n    end\r\nend\r\n\r\nfunction checkResidualPosition(bottle)\r\n    if bottleInResidualAreaNotCenter(bottle) then\r\n        local degree = checkDegreeBottle(bottle)\r\n        if degree >= 90 and degree < 162.6 then\r\n            return 1\r\n        elseif degree < 90 and degree >= 17.4 then\r\n            return 2\r\n        elseif (degree < 17.4 and degree > 0) or (degree <=360 and degree >= 306.9) then\r\n            return 3\r\n        elseif degree >= 233.1 and degree < 306.9 then\r\n            return 4\r\n        else\r\n            return 5\r\n        end\r\n    else\r\n        return 0\r\n    end\r\nend\r\n\r\nfunction payResidual(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        local yellowPayment = checkResidualPosition(yellowBottle)\r\n        if yellowPayment > 0 then\r\n            printToColor(\"You have received \"..yellowPayment..\" Lira from your residual payment\", \"Yellow\")\r\n            dealLira(\"Yellow\",yellowPayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Blue\") then\r\n        local bluePayment = checkResidualPosition(blueBottle)\r\n        if bluePayment > 0 then\r\n            printToColor(\"You have received \"..bluePayment..\" Lira from your residual payment\", \"Blue\")\r\n            dealLira(\"Blue\",bluePayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Green\") then\r\n        local greenPayment = checkResidualPosition(greenBottle)\r\n        if greenPayment > 0 then\r\n            printToColor(\"You have received \"..greenPayment..\" Lira from your residual payment\", \"Green\")\r\n            dealLira(\"Green\",greenPayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Red\") then\r\n        local redPayment = checkResidualPosition(redBottle)\r\n        if redPayment > 0 then\r\n            printToColor(\"You have received \"..redPayment..\" Lira from your residual payment\", \"Red\")\r\n            dealLira(\"Red\",redPayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"White\") then\r\n        local whitePayment = checkResidualPosition(whiteBottle)\r\n        if whitePayment > 0 then\r\n            printToColor(\"You have received \"..whitePayment..\" Lira from your residual payment\", \"White\")\r\n            dealLira(\"White\",whitePayment)\r\n        end\r\n    end\r\n\r\n    if isPlaying(players,\"Orange\") then\r\n        local orangePayment = checkResidualPosition(orangeBottle)\r\n        if orangePayment > 0 then\r\n            printToColor(\"You have received \"..orangePayment..\" Lira from your residual payment\", \"Orange\")\r\n            dealLira(\"Orange\",orangePayment)\r\n        end\r\n    end\r\nend\r\n\r\nfunction dealLira(color,amount)\r\n    if amount == 5 then\r\n        fiveLiraBag.deal(1,color)\r\n    elseif amount == 4 then\r\n        twoLiraBag.deal(2,color)\r\n    elseif amount == 3 then\r\n        twoLiraBag.deal(1,color)\r\n        oneLiraBag.deal(1,color)\r\n    elseif amount == 2 then\r\n        twoLiraBag.deal(1,color)\r\n    elseif amount == 1 then\r\n        oneLiraBag.deal(1,color)\r\n    end\r\nend\r\n\r\nfunction dealMamaPapa(players,count)\r\n    mamaDeck.shuffle()\r\n    papaDeck.shuffle()\r\n    vineDeck.shuffle()\r\n    summerDeck.shuffle()\r\n    orderDeck.shuffle()\r\n    winterDeck.shuffle()\r\n    mamaDeck.deal(count)\r\n    papaDeck.deal(count)\r\nend\r\n\r\nfunction checkPlayerCards(players)\r\n    Wait.time(\r\n    function()\r\n        if isPlaying(players,\"Yellow\") then\r\n            local cardsInHandYellow = 0\r\n            local yellowHand = Player[\"Yellow\"].getHandObjects(1)\r\n            for _,object in ipairs(yellowHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandYellow = cardsInHandYellow+1\r\n                end\r\n            end\r\n            if cardsInHandYellow > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandYellow-7)..\" card(s)!\", \"Yellow\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Blue\") then\r\n            local cardsInHandBlue = 0\r\n            local blueHand = Player[\"Blue\"].getHandObjects(1)\r\n            for _,object in ipairs(blueHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandBlue = cardsInHandBlue+1\r\n                end\r\n            end\r\n            if cardsInHandBlue > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandBlue-7)..\" card(s)!\", \"Blue\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Green\") then\r\n            local cardsInHandGreen = 0\r\n            local greenHand = Player[\"Green\"].getHandObjects(1)\r\n            for _,object in ipairs(greenHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandGreen = cardsInHandGreen+1\r\n                end\r\n            end\r\n            if cardsInHandGreen > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandGreen-7)..\" card(s)!\", \"Green\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Red\") then\r\n            local cardsInHandRed = 0\r\n            local redHand = Player[\"Red\"].getHandObjects(1)\r\n            for _,object in ipairs(redHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandRed = cardsInHandRed+1\r\n                end\r\n            end\r\n            if cardsInHandRed > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandRed-7)..\" card(s)!\", \"Red\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"White\") then\r\n            local cardsInHandWhite = 0\r\n            local whiteHand = Player[\"White\"].getHandObjects(1)\r\n            for _,object in ipairs(whiteHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandWhite = cardsInHandWhite+1\r\n                end\r\n            end\r\n            if cardsInHandWhite > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandWhite-7)..\" card(s)!\", \"White\",{255,0,0})\r\n            end\r\n        end\r\n        if isPlaying(players,\"Orange\") then\r\n            local cardsInHandOrange = 0\r\n            local orangeHand = Player[\"Orange\"].getHandObjects(1)\r\n            for _,object in ipairs(orangeHand) do\r\n                if object.tag == \"Card\" then\r\n                    cardsInHandOrange = cardsInHandOrange+1\r\n                end\r\n            end\r\n            if cardsInHandOrange > 7 then\r\n                broadcastToColor(\"You have more than 7 cards.\\nDiscard \"..(cardsInHandOrange-7)..\" card(s)!\", \"Orange\",{255,0,0})\r\n            end\r\n        end\r\n    end,\r\n    2.5)\r\nend\r\n\r\nfunction getSortedSeatedPlayers()\r\n    sortedSeatedPlayers = {}\r\n    for _, color in ipairs(ALL_PLAYERS) do\r\n        if Player[color].seated then\r\n            table.insert(sortedSeatedPlayers, color)\r\n        end\r\n    end\r\n    return sortedSeatedPlayers\r\nend\r\n\r\nfunction isPlaying(players,color)\r\n    for _, v in ipairs(players) do\r\n        if v == color then\r\n            return true\r\n        end\r\n    end\r\nend\r\n\r\nfunction setFirstPlayer(players)\r\n    local firstPlayerIndex = random(1,#players)\r\n    return players[firstPlayerIndex]\r\nend\r\n\r\nfunction random(x, y)\r\n    local u = 0 -- don't delete\r\n    u = u + 1\r\n    if x ~= nil and y ~= nil then\r\n        return math.floor(x +(math.random(math.randomseed(os.time()+u))*999999 %y))\r\n    else\r\n        return math.floor((math.random(math.randomseed(os.time()+u))*100))\r\n    end\r\nend\r\n\r\nfunction passFirstPlayerToken(playerList)\r\n    local curPlayerIndex = findIndexByColor(playerList,CURRENT_FIRST_PLAYER)\r\n    if curPlayerIndex < #playerList then\r\n        CURRENT_FIRST_PLAYER = playerList[curPlayerIndex + 1]\r\n    else\r\n        CURRENT_FIRST_PLAYER = playerList[1]\r\n    end\r\n\r\n    moveFirstPlayerToken(CURRENT_FIRST_PLAYER)\r\nend\r\n\r\nfunction findIndexByColor( players, color )\r\n  for k,v in pairs(players) do\r\n    if v==color then return k end\r\n  end\r\n  return nil\r\nend\r\n\r\n\r\nfunction moveFirstPlayerToken(color)\r\n    if(color == \"Yellow\") then\r\n        -- yellow Player\r\n        firstPlayerToken.setPositionSmooth({-31.5,1,16.2}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,0,0}, false, false)\r\n    elseif(color == 'Blue') then\r\n        -- blue Player\r\n        firstPlayerToken.setPositionSmooth({-44.2,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'Green') then\r\n        -- green Player\r\n        firstPlayerToken.setPositionSmooth({-20.5,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'Red') then\r\n        -- red Player\r\n        firstPlayerToken.setPositionSmooth({4.2,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'White') then\r\n        -- white Player\r\n        firstPlayerToken.setPositionSmooth({28.6,1,-13.5}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,270,0}, false, false)\r\n    elseif(color == 'Orange') then\r\n        -- orange Player\r\n        firstPlayerToken.setPositionSmooth({31.2,1,-6}, false, false)\r\n        firstPlayerToken.setRotationSmooth({0,180,0}, false, false)\r\n    end\r\nend\r\n\r\nfunction initialPositionCock(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowCock.setPositionSmooth({-21,1,8.88}, false, false)\r\n        yellowCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        blueCock.setPositionSmooth({-20,1,8.88}, false, false)\r\n        blueCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenCock.setPositionSmooth({-19,1,8.88}, false, false)\r\n        greenCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redCock.setPositionSmooth({-18,1,8.88}, false, false)\r\n        redCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whiteCock.setPositionSmooth({-17,1,8.88}, false, false)\r\n        whiteCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangeCock.setPositionSmooth({-16,1,8.88}, false, false)\r\n        orangeCock.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\nend\r\n\r\nfunction initialPositionCork(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowCork.setPositionSmooth({-12.5,1,-6.6}, false, false)\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        blueCork.setPositionSmooth({-12.5,1,-4.6}, false, false)\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenCork.setPositionSmooth({-12.5,1,-5.4}, false, false)\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redCork.setPositionSmooth({-12.5,1,-6}, false, false)\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whiteCork.setPositionSmooth({-12.5,1,-3.8}, false, false)\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangeCork.setPositionSmooth({-12.5,1,-3}, false, false)\r\n    end\r\nend\r\n\r\nfunction initialPositionBottle(players)\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowBottle.setPositionSmooth({17.3,1,-0.42}, false, false)\r\n        yellowBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        blueBottle.setPositionSmooth({16.8,1,-0.8}, false, false)\r\n        blueBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenBottle.setPositionSmooth({17.3,1,-0.92}, false, false)\r\n        greenBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redBottle.setPositionSmooth({16.8,1,-1.3}, false, false)\r\n        redBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whiteBottle.setPositionSmooth({17.3,1,-1.42}, false, false)\r\n        whiteBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangeBottle.setPositionSmooth({16.8,1,-1.8}, false, false)\r\n        orangeBottle.setRotationSmooth({0,0,0}, false, false)\r\n    end\r\nend\r\n\r\nfunction initialPositionWorkers(players)\r\n    yellowGrande.setPositionSmooth({-40.15,2,2.2}, false, false)\r\n    yellowGrande.setRotationSmooth({0,0,0}, false, true)\r\n    yellowWorker1.setPositionSmooth({-40.15,2,1.6}, false, false)\r\n    yellowWorker1.setRotationSmooth({0,0,0}, false, true)\r\n    yellowWorker2.setPositionSmooth({-40.15,2,0.9}, false, false)\r\n    yellowWorker2.setRotationSmooth({0,0,0}, false, true)\r\n    if yellowWorker3 ~= nil then\r\n        yellowWorker3.setPositionSmooth({-40.15,2,0.2}, false, false)\r\n        yellowWorker3.setRotationSmooth({0,0,0}, false, true)\r\n    end\r\n    if yellowWorker4 ~= nil then\r\n        yellowWorker4.setPositionSmooth({-40.15,2,-0.5}, false, false)\r\n        yellowWorker4.setRotationSmooth({0,0,0}, false, true)\r\n    end\r\n    if yellowWorker5 ~= nil then\r\n        yellowWorker5.setPositionSmooth({-40.15,2,-1.1}, false, false)\r\n        yellowWorker5.setRotationSmooth({0,0,0}, false, true)\r\n    end\r\n\r\n    blueGrande.setPositionSmooth({-31.2,2,-22.15}, false, false)\r\n    blueGrande.setRotationSmooth({0,90,0}, false, true)\r\n    blueWorker1.setPositionSmooth({-30.6,2,-22.15}, false, false)\r\n    blueWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    blueWorker2.setPositionSmooth({-29.9,2,-22.15}, false, false)\r\n    blueWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if blueWorker3 ~= nil then\r\n        blueWorker3.setPositionSmooth({-29.2,2,-22.15}, false, false)\r\n        blueWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if blueWorker4 ~= nil then\r\n        blueWorker4.setPositionSmooth({-28.5,2,-22.15}, false, false)\r\n        blueWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if blueWorker5 ~= nil then\r\n        blueWorker5.setPositionSmooth({-27.8,2,-22.15}, false, false)\r\n        blueWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    greenGrande.setPositionSmooth({-7,2,-22.15}, false, false)\r\n    greenGrande.setRotationSmooth({0,90,0}, false, true)\r\n    greenWorker1.setPositionSmooth({-6.4,2,-22.15}, false, false)\r\n    greenWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    greenWorker2.setPositionSmooth({-5.7,2,-22.15}, false, false)\r\n    greenWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if greenWorker3 ~= nil then\r\n        greenWorker3.setPositionSmooth({-5,2,-22.15}, false, false)\r\n        greenWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if greenWorker4 ~= nil then\r\n        greenWorker4.setPositionSmooth({-4.3,2,-22.15}, false, false)\r\n        greenWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if greenWorker5 ~= nil then\r\n        greenWorker5.setPositionSmooth({-3.6,2,-22.15}, false, false)\r\n        greenWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    redGrande.setPositionSmooth({17.4,2,-22.3}, false, false)\r\n    redGrande.setRotationSmooth({0,90,0}, false, true)\r\n    redWorker1.setPositionSmooth({18,2,-22.3}, false, false)\r\n    redWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    redWorker2.setPositionSmooth({18.7,2,-22.3}, false, false)\r\n    redWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if redWorker3 ~= nil then\r\n        redWorker3.setPositionSmooth({19.4,2,-22.3}, false, false)\r\n        redWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if redWorker4 ~= nil then\r\n        redWorker4.setPositionSmooth({20.1,2,-22.3}, false, false)\r\n        redWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if redWorker5 ~= nil then\r\n        redWorker5.setPositionSmooth({20.8,2,-22.3}, false, false)\r\n        redWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    whiteGrande.setPositionSmooth({41.6,2,-22.3}, false, false)\r\n    whiteGrande.setRotationSmooth({0,90,0}, false, true)\r\n    whiteWorker1.setPositionSmooth({42.2,2,-22.3}, false, false)\r\n    whiteWorker1.setRotationSmooth({0,90,0}, false, true)\r\n    whiteWorker2.setPositionSmooth({42.9,2,-22.3}, false, false)\r\n    whiteWorker2.setRotationSmooth({0,90,0}, false, true)\r\n    if whiteWorker3 ~= nil then\r\n        whiteWorker3.setPositionSmooth({43.6,2,-22.3}, false, false)\r\n        whiteWorker3.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if whiteWorker4 ~= nil then\r\n        whiteWorker4.setPositionSmooth({44.3,2,-22.3}, false, false)\r\n        whiteWorker4.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n    if whiteWorker5 ~= nil then\r\n        whiteWorker5.setPositionSmooth({45,2,-22.3}, false, false)\r\n        whiteWorker5.setRotationSmooth({0,90,0}, false, true)\r\n    end\r\n\r\n    orangeGrande.setPositionSmooth({39.6,2,7.3}, false, false)\r\n    orangeGrande.setRotationSmooth({0,180,0}, false, true)\r\n    orangeWorker1.setPositionSmooth({39.6,2,7.9}, false, false)\r\n    orangeWorker1.setRotationSmooth({0,180,0}, false, true)\r\n    orangeWorker2.setPositionSmooth({39.6,2,8.6}, false, false)\r\n    orangeWorker2.setRotationSmooth({0,180,0}, false, true)\r\n    if orangeWorker3 ~= nil then\r\n        orangeWorker3.setPositionSmooth({39.6,2,9.3}, false, false)\r\n        orangeWorker3.setRotationSmooth({0,180,0}, false, true)\r\n    end\r\n    if orangeWorker4 ~= nil then\r\n        orangeWorker4.setPositionSmooth({39.6,2,10}, false, false)\r\n        orangeWorker4.setRotationSmooth({0,180,0}, false, true)\r\n    end\r\n    if orangeWorker5 ~= nil then\r\n        orangeWorker5.setPositionSmooth({39.6,2,10.7}, false, false)\r\n        orangeWorker5.setRotationSmooth({0,180,0}, false, true)\r\n    end\r\n    freeWorker.setPositionSmooth({-18.1,2,-1.9}, false, false)\r\n    freeWorker.setRotationSmooth({0,0,0}, false, true)\r\nend\r\n\r\nfunction checkWinner(players)\r\n    local winners = {}\r\n    local maxPoints = 0\r\n    local yellowPoint = 0\r\n    local bluePoint = 0\r\n    local greenPoint = 0\r\n    local redPoint = 0\r\n    local whitePoint = 0\r\n    local orangePoint = 0\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowPoint = checkPoints(yellowCork.getPosition()[1])\r\n        if yellowPoint > maxPoints then\r\n            maxPoints = yellowPoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        bluePoint = checkPoints(blueCork.getPosition()[1])\r\n        if bluePoint > maxPoints then\r\n            maxPoints = bluePoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenPoint = checkPoints(greenCork.getPosition()[1])\r\n        if greenPoint > maxPoints then\r\n            maxPoints = greenPoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redPoint = checkPoints(redCork.getPosition()[1])\r\n        if redPoint > maxPoints then\r\n            maxPoints = redPoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whitePoint = checkPoints(whiteCork.getPosition()[1])\r\n        if whitePoint > maxPoints then\r\n            maxPoints = whitePoint\r\n        end\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangePoint = checkPoints(orangeCork.getPosition()[1])\r\n        if orangePoint > maxPoints then\r\n            maxPoints = orangePoint\r\n        end\r\n    end\r\n\r\n    if yellowPoint >= 20 then\r\n        table.insert(winners,\"Yellow\")\r\n    end\r\n    if bluePoint >= 20 then\r\n        table.insert(winners,\"Blue\")\r\n    end\r\n    if greenPoint >= 20 then\r\n        table.insert(winners,\"Green\")\r\n    end\r\n    if redPoint >= 20 then\r\n        table.insert(winners,\"Red\")\r\n    end\r\n    if whitePoint >= 20 then\r\n        table.insert(winners,\"White\")\r\n    end\r\n    if orangePoint >= 20 then\r\n        table.insert(winners,\"Orange\")\r\n    end\r\n    return winners\r\nend\r\n\r\nfunction checkEndGame(players)\r\n    local yellowPoint = 0\r\n    local bluePoint = 0\r\n    local greenPoint = 0\r\n    local redPoint = 0\r\n    local whitePoint = 0\r\n    local orangePoint = 0\r\n    if isPlaying(players,\"Yellow\") then\r\n        yellowPoint = checkPoints(yellowCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Blue\") then\r\n        bluePoint = checkPoints(blueCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Green\") then\r\n        greenPoint = checkPoints(greenCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Red\") then\r\n        redPoint = checkPoints(redCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"White\") then\r\n        whitePoint = checkPoints(whiteCork.getPosition()[1])\r\n    end\r\n    if isPlaying(players,\"Orange\") then\r\n        orangePoint = checkPoints(orangeCork.getPosition()[1])\r\n    end\r\n\r\n    if yellowPoint >= 20 or bluePoint >= 20 or greenPoint >= 20 or redPoint >= 20 or whitePoint >= 20 or orangePoint >= 20 then\r\n            return true\r\n    else\r\n        return false\r\n    end\r\nend\r\n\r\nfunction checkPoints(corkXPosition)\r\n    if (corkXPosition > 11.15 and corkXPosition < 18.7) then\r\n        if corkXPosition < 12.35 then\r\n            return 20\r\n        elseif corkXPosition < 13.55 then\r\n            return 21\r\n        elseif corkXPosition < 14.75 then\r\n            return 22\r\n        elseif corkXPosition < 15.95 then\r\n            return 23\r\n        elseif corkXPosition < 17.15 then\r\n            return 24\r\n        else\r\n            return 25\r\n        end\r\n    else\r\n        return -1\r\n    end\r\nend\r\n\r\nfunction checkWorkersWerePlaced(players)\r\n    if(\r\n    (not isPlaying(players,\"Yellow\") or\r\n    (isPlaying(players,\"Yellow\") and\r\n    not(yellowGrande.getPosition()[1] > -40.8 and yellowGrande.getPosition()[1] < -40.8+1.3 and yellowGrande.getPosition()[3] > 2.5-4 and yellowGrande.getPosition()[3] < 2.5) and\r\n    not(yellowWorker1.getPosition()[1] > -40.8 and yellowWorker1.getPosition()[1] < -40.8+1.3 and yellowWorker1.getPosition()[3] > 2.5-4 and yellowWorker1.getPosition()[3] < 2.5) and\r\n    not(yellowWorker2.getPosition()[1] > -40.8 and yellowWorker2.getPosition()[1] < -40.8+1.3 and yellowWorker2.getPosition()[3] > 2.5-4 and yellowWorker2.getPosition()[3] < 2.5) and\r\n    not(yellowWorker3 ~= nil and (yellowWorker3.getPosition()[1] > -40.8 and yellowWorker3.getPosition()[1] < -40.8+1.3 and yellowWorker3.getPosition()[3] > 2.5-4 and yellowWorker3.getPosition()[3] < 2.5)) and\r\n    not(yellowWorker4 ~= nil and (yellowWorker4.getPosition()[1] > -40.8 and yellowWorker4.getPosition()[1] < -40.8+1.3 and yellowWorker4.getPosition()[3] > 2.5-4 and yellowWorker4.getPosition()[3] < 2.5)) and\r\n    not(yellowWorker5 ~= nil and (yellowWorker5.getPosition()[1] > -40.8 and yellowWorker5.getPosition()[1] < -40.8+1.3 and yellowWorker5.getPosition()[3] > 2.5-4 and yellowWorker5.getPosition()[3] < 2.5)))) and\r\n\r\n    (not isPlaying(players,\"Blue\") or\r\n    (isPlaying(players,\"Blue\") and\r\n    not(blueGrande.getPosition()[1] > -31.5 and blueGrande.getPosition()[1] < -31.5+4 and blueGrande.getPosition()[3] > -22.7 and blueGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(blueWorker1.getPosition()[1] > -31.5 and blueWorker1.getPosition()[1] < -31.5+4 and blueWorker1.getPosition()[3] > -22.7 and blueWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(blueWorker2.getPosition()[1] > -31.5 and blueWorker2.getPosition()[1] < -31.5+4 and blueWorker2.getPosition()[3] > -22.7 and blueWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(blueWorker3 ~= nil and (blueWorker3.getPosition()[1] > -31.5 and blueWorker3.getPosition()[1] < -31.5+4 and blueWorker3.getPosition()[3] > -22.7 and blueWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(blueWorker4 ~= nil and (blueWorker4.getPosition()[1] > -31.5 and blueWorker4.getPosition()[1] < -31.5+4 and blueWorker4.getPosition()[3] > -22.7 and blueWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(blueWorker5 ~= nil and (blueWorker5.getPosition()[1] > -31.5 and blueWorker5.getPosition()[1] < -31.5+4 and blueWorker5.getPosition()[3] > -22.7 and blueWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"Green\") or\r\n    (isPlaying(players,\"Green\") and\r\n    not(greenGrande.getPosition()[1] > -7.3 and greenGrande.getPosition()[1] < -7.3+4 and greenGrande.getPosition()[3] > -22.7 and greenGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(greenWorker1.getPosition()[1] > -7.3 and greenWorker1.getPosition()[1] < -7.3+4 and greenWorker1.getPosition()[3] > -22.7 and greenWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(greenWorker2.getPosition()[1] > -7.3 and greenWorker2.getPosition()[1] < -7.3+4 and greenWorker2.getPosition()[3] > -22.7 and greenWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(greenWorker3 ~= nil and (greenWorker3.getPosition()[1] > -7.3 and greenWorker3.getPosition()[1] < -7.3+4 and greenWorker3.getPosition()[3] > -22.7 and greenWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(greenWorker4 ~= nil and (greenWorker4.getPosition()[1] > -7.3 and greenWorker4.getPosition()[1] < -7.3+4 and greenWorker4.getPosition()[3] > -22.7 and greenWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(greenWorker5 ~= nil and (greenWorker5.getPosition()[1] > -7.3 and greenWorker5.getPosition()[1] < -7.3+4 and greenWorker5.getPosition()[3] > -22.7 and greenWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"Red\") or\r\n    (isPlaying(players,\"Red\") and\r\n    not(redGrande.getPosition()[1] > 17.03 and redGrande.getPosition()[1] < 17.03+4 and redGrande.getPosition()[3] > -22.7 and redGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(redWorker1.getPosition()[1] > 17.03 and redWorker1.getPosition()[1] < 17.03+4 and redWorker1.getPosition()[3] > -22.7 and redWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(redWorker2.getPosition()[1] > 17.03 and redWorker2.getPosition()[1] < 17.03+4 and redWorker2.getPosition()[3] > -22.7 and redWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(redWorker3 ~= nil and (redWorker3.getPosition()[1] > 17.03 and redWorker3.getPosition()[1] < 17.03+4 and redWorker3.getPosition()[3] > -22.7 and redWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(redWorker4 ~= nil and (redWorker4.getPosition()[1] > 17.03 and redWorker4.getPosition()[1] < 17.03+4 and redWorker4.getPosition()[3] > -22.7 and redWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(redWorker5 ~= nil and (redWorker5.getPosition()[1] > 17.03 and redWorker5.getPosition()[1] < 17.03+4 and redWorker5.getPosition()[3] > -22.7 and redWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"White\") or\r\n    (isPlaying(players,\"White\") and\r\n    not(whiteGrande.getPosition()[1] > 41.2 and whiteGrande.getPosition()[1] < 41.2+4 and whiteGrande.getPosition()[3] > -22.7 and whiteGrande.getPosition()[3] < -22.7+1.3) and\r\n    not(whiteWorker1.getPosition()[1] > 41.2 and whiteWorker1.getPosition()[1] < 41.2+4 and whiteWorker1.getPosition()[3] > -22.7 and whiteWorker1.getPosition()[3] < -22.7+1.3) and\r\n    not(whiteWorker2.getPosition()[1] > 41.2 and whiteWorker2.getPosition()[1] < 41.2+4 and whiteWorker2.getPosition()[3] > -22.7 and whiteWorker2.getPosition()[3] < -22.7+1.3) and\r\n    not(whiteWorker3 ~= nil and (whiteWorker3.getPosition()[1] > 41.2 and whiteWorker3.getPosition()[1] < 41.2+4 and whiteWorker3.getPosition()[3] > -22.7 and whiteWorker3.getPosition()[3] < -22.7+1.3)) and\r\n    not(whiteWorker4 ~= nil and (whiteWorker4.getPosition()[1] > 41.2 and whiteWorker4.getPosition()[1] < 41.2+4 and whiteWorker4.getPosition()[3] > -22.7 and whiteWorker4.getPosition()[3] < -22.7+1.3)) and\r\n    not(whiteWorker5 ~= nil and (whiteWorker5.getPosition()[1] > 41.2 and whiteWorker5.getPosition()[1] < 41.2+4 and whiteWorker5.getPosition()[3] > -22.7 and whiteWorker5.getPosition()[3] < -22.7+1.3)))) and\r\n\r\n    (not isPlaying(players,\"Orange\") or\r\n    (isPlaying(players,\"Orange\") and\r\n    not(orangeGrande.getPosition()[1] > 39 and orangeGrande.getPosition()[1] < 39+1.3 and orangeGrande.getPosition()[3] > 11-4 and orangeGrande.getPosition()[3] < 11) and\r\n    not(orangeWorker1.getPosition()[1] > 39 and orangeWorker1.getPosition()[1] < 39+1.3 and orangeWorker1.getPosition()[3] > 11-4 and orangeWorker1.getPosition()[3] < 11) and\r\n    not(orangeWorker2.getPosition()[1] > 39 and orangeWorker2.getPosition()[1] < 39+1.3 and orangeWorker2.getPosition()[3] > 11-4 and orangeWorker2.getPosition()[3] < 11) and\r\n    not(orangeWorker3 ~= nil and (orangeWorker3.getPosition()[1] > 39 and orangeWorker3.getPosition()[1] < 39+1.3 and orangeWorker3.getPosition()[3] > 11-4 and orangeWorker3.getPosition()[3] < 11)) and\r\n    not(orangeWorker4 ~= nil and (orangeWorker4.getPosition()[1] > 39 and orangeWorker4.getPosition()[1] < 39+1.3 and orangeWorker4.getPosition()[3] > 11-4 and orangeWorker4.getPosition()[3] < 11)) and\r\n    not(orangeWorker5 ~= nil and (orangeWorker5.getPosition()[1] > 39 and orangeWorker5.getPosition()[1] < 39+1.3 and orangeWorker5.getPosition()[3] > 11-4 and orangeWorker5.getPosition()[3] < 11))))\r\n\r\n    ) then\r\n        return true\r\n    else\r\n        return false\r\n    end\r\nend\r\n",
+      "LuaScriptState": "",
+      "XmlUI": ""
     },
     {
       "GUID": "14512d",
@@ -13829,7 +13660,7 @@
         "posX": -17.65113,
         "posY": 1.18312013,
         "posZ": 21.129755,
-        "rotX": 4.83447131E-08,
+        "rotX": -7.949549E-08,
         "rotY": 179.999969,
         "rotZ": 180.0,
         "scaleX": 1.81915474,
@@ -16282,7 +16113,7 @@
         "posX": -7.70684052,
         "posY": 1.26014519,
         "posZ": 21.0269928,
-        "rotX": -1.2159779E-08,
+        "rotX": 8.929025E-09,
         "rotY": 180.0,
         "rotZ": 180.0,
         "scaleX": 1.81915474,
@@ -19645,9 +19476,9 @@
       "Name": "Deck",
       "Transform": {
         "posX": 2.255457,
-        "posY": 1.154236,
+        "posY": 1.1542362,
         "posZ": 21.161047,
-        "rotX": -5.411902E-08,
+        "rotX": -2.6670369E-08,
         "rotY": 180.000015,
         "rotZ": 180.0,
         "scaleX": 1.81915474,
@@ -21756,9 +21587,9 @@
       "Name": "Deck",
       "Transform": {
         "posX": 12.30327,
-        "posY": 1.260145,
+        "posY": 1.26014519,
         "posZ": 21.1310253,
-        "rotX": 1.87706E-08,
+        "rotX": 5.21365031E-08,
         "rotY": 180.000076,
         "rotZ": 180.0,
         "scaleX": 1.81915474,
@@ -25109,6 +24940,256 @@
               "UniqueBack": false,
               "Type": 0
             }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "22345f",
+      "Name": "Custom_Model_Infinite_Bag",
+      "Transform": {
+        "posX": -23.958849,
+        "posY": 0.9669744,
+        "posZ": -4.307452,
+        "rotX": 1.0373052E-06,
+        "rotY": 269.998779,
+        "rotZ": 1.71076761E-06,
+        "scaleX": 0.300000429,
+        "scaleY": 0.300000429,
+        "scaleZ": 0.300000429
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1785091242089897732/8621F60BB1280F85EF3C3EC35C1F36B43245352E/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1785091242089898135/8468061AAE3AD7C2739B799C3A27E39521B4E5E3/",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 7,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.3,
+          "SpecularSharpness": 7.0,
+          "FresnelStrength": 0.4
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "8a2997",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 27.4849586,
+            "posY": 3.344629,
+            "posZ": -4.39798927,
+            "rotX": 0.0158782136,
+            "rotY": 90.00907,
+            "rotZ": 0.005632184,
+            "scaleX": 0.325000435,
+            "scaleY": 0.325000435,
+            "scaleZ": 0.325000435
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.4070632
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1785091242089122380/6BC578497207F3CEFC6244ED11F5C4510A7D2495/",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 4,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.6,
+              "SpecularSharpness": 7.9333334,
+              "FresnelStrength": 0.2
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        }
+      ]
+    },
+    {
+      "GUID": "701fee",
+      "Name": "Custom_Model_Infinite_Bag",
+      "Transform": {
+        "posX": 23.1628914,
+        "posY": 1.13979852,
+        "posZ": -4.57141352,
+        "rotX": -0.003620854,
+        "rotY": 270.238678,
+        "rotZ": 353.673431,
+        "scaleX": 0.300000429,
+        "scaleY": 0.300000429,
+        "scaleZ": 0.300000429
+      },
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1785091242089897732/8621F60BB1280F85EF3C3EC35C1F36B43245352E/",
+        "DiffuseURL": "http://cloud-3.steamusercontent.com/ugc/1785091242089898135/8468061AAE3AD7C2739B799C3A27E39521B4E5E3/",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 7,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.3,
+          "SpecularSharpness": 7.0,
+          "FresnelStrength": 0.4
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "8a2997",
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": 27.4849586,
+            "posY": 3.344629,
+            "posZ": -4.39798927,
+            "rotX": 0.0158782136,
+            "rotY": 90.00907,
+            "rotZ": 0.005632184,
+            "scaleX": 0.325000435,
+            "scaleY": 0.325000435,
+            "scaleZ": 0.325000435
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.4070632
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1785091242089122380/6BC578497207F3CEFC6244ED11F5C4510A7D2495/",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "",
+            "Convex": true,
+            "MaterialIndex": 4,
+            "TypeIndex": 0,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.6,
+              "SpecularSharpness": 7.9333334,
+              "FresnelStrength": 0.2
+            },
+            "CastShadows": true
           },
           "LuaScript": "",
           "LuaScriptState": "",
